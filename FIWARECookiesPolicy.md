@@ -52,7 +52,7 @@ of the websites with which they are associated.
 ## Cookies of FIWARE website (fiware.org).  
 
 | Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------|-------|
+|--------|-------|----------|---------| :---: |
 | NID | google.com | 6 months | Google uses this cookie, like the PREF, to help customise ads on Google properties, like Google Search. | 2 | 
 | PHPSESSID | fi-ware.local | Expires with the session | Server cookie to keep server session | 1 |
 | \_ga | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |

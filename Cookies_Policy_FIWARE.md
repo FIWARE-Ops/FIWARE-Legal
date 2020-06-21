@@ -27,21 +27,21 @@ following procedures, depending on the browser in use:
 Cookies\<br/\><br>
 More information: https://support.google.com/chrome/answer/95647?hl=en
 
-**Microsoft Internet Explorer**
-(in the Tools Menu): Internet \> Privacy \> Advanced\<br/\> More information:
-http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies\#ie=ie-9
+**Microsoft Internet Explorer**<br>
+(in the Tools Menu): Internet \> Privacy \> Advanced\<br>
+More information: http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies\#ie=ie-9
 
- **Firefox**
-Options \> Privacy \> Cookies\<br/\> More information:
-http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+**Firefox**
+Options \> Privacy \> Cookies\<br>
+More information: http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
 
-**Safari**, iPad y iPhone
-Preferences \> Privacy\<br/\> More information:
-http://www.apple.com/privacy/use-of-cookies/
+**Safari**, iPad y iPhone<br>
+Preferences \> Privacy\<br>
+More information: http://www.apple.com/privacy/use-of-cookies/
 
-**Opera**
-Settings \> Preferences \> Advanced \> Cookies\<br/\> More information:
-http://help.opera.com/Linux/10.60/en/cookies.html
+**Opera**<br>
+Settings \> Preferences \> Advanced \> Cookies\<br>
+More information: http://help.opera.com/Linux/10.60/en/cookies.html
 
 \<br/\> Analytical cookies:
 

@@ -49,7 +49,7 @@ More information: http://help.opera.com/Linux/10.60/en/cookies.html
 Analytical cookies make it possible to track and analyse the behaviour of the users
 of the websites with which they are associated.
 
-## Cookies of FIWARE website (fiware.org).  
+## FIWARE website (fiware.org) Cookies.  
 
 | Cookie | Owner | Duration | Purpose | Level |
 |--------|-------|----------|---------| :---: |
@@ -83,26 +83,19 @@ of the websites with which they are associated.
 
 
 
-\= Cookies of FIWARE Lab = Specifically, on the user's device,
-fiware.org stores the analytical cookies of Google Analytics. Users can
-exclude their individual activity by means of the exclusion systems
-facilitated by
-<http://tools.google.com/dlpage/gaoptout Google Analytics>.
+## FIWARE Lab Cookies.   
 
-{| class="wikitable" style="margin: 1em auto 1em auto" cellpadding="10"
-cellspacing="2"
 
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
-
-|- | \_\_utma || google-analytics.com \<br/\> ga.js || 2 years || This
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+| \_\_utma | google-analytics.com \<br/\> ga.js || 2 years || This
 cookie keeps a record of the number of times a user has visited a site,
 and when the first and last visits were. || level 2
 
 |-
 
-| \_\_utmc || google-analytics.com \<br/\> ga.js || Expires with the
-session || This cookie helps to calculate how long a user's visit lasts,
-storing the time the user exits the page. || level 2
+| \_\_utmc | google-analytics.com.  
+ga.js | Expires with the session | This cookie helps to calculate how long a user's visit lasts, storing the time the user exits the page. | 2 |
 
 |- | \_\_utmz || google-analytics.com \<br/\> ga.js || Expires with the
 session || This cookie keeps track of where the visitor comes from,

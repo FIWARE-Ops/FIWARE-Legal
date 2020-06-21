@@ -1,2 +1,5 @@
 # FIWARE-Legal
-All legal documents that are needed in the various FIWARE web sites (e.g. privacy, terms and conditions, etc.)
+All legal documents that are needed in the various FIWARE web sites. They are:
+* FIWARE Privacy Policy
+* FIWARE Cookies Policy
+* FIWARE Lab Terms and Conditions

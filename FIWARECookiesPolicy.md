@@ -126,95 +126,41 @@ of the websites with which they are associated.
 | name of the mailing list + user | lists.fiware.org | Expires with the session This cookie is used as session identifier. | 1 |
 
 
-## Cookies of FIWARE Academy = Specifically, on the user's device,
-fiware.org stores the analytical cookies of Google Analytics. Users can
-exclude their individual activity by means of the exclusion systems
-facilitated by
-<http://tools.google.com/dlpage/gaoptout Google Analytics>.
-
-{| class="wikitable" style="margin: 1em auto 1em auto" cellpadding="10"
-cellspacing="2"
-
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
-
-|- | MoodleSession || edu.fiware.org || Session || To keep the reference
-of the current session || level 1 |- | \_ga || .fiware.org || 2 years ||
-This cookie is used for getting use stats from the users of the portals
-|| level 2 |- | \_gat || .fiware.org || 2 years || This cookie is used
-for getting use stats from the users of the portals || level 2 |- |
-popup\_cookie || edu.fiware.org || 1 hour || This cookie is used to show
-a popup/welcome the first time an user visits this website || level 2 |}
-
-\= Cookies of FIWARE Catalogue = Specifically, on the user's device,
-fiware.org stores the analytical cookies of Google Analytics. Users can
-exclude their individual activity by means of the exclusion systems
-facilitated by
-<http://tools.google.com/dlpage/gaoptout Google Analytics>.
-
-{| class="wikitable" style="margin: 1em auto 1em auto" cellpadding="10"
-cellspacing="2"
-
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
-
-|- | \_\_utma || google-analytics.com \<br/\> ga.js || 2 years || This
-cookie keeps a record of the number of times a user has visited a site,
-and when the first and last visits were. || level 2
-
-|-
-
-| \_\_utmc || google-analytics.com \<br/\> ga.js || Expires with the
-session || This cookie helps to calculate how long a user's visit lasts,
-storing the time the user exits the page. || level 2
-
-|- | \_\_utmz || google-analytics.com \<br/\> ga.js || Expires with the
-session || This cookie keeps track of where the visitor comes from,
-which search engine was used, which link he/she clicked on, what key
-words were used and from where in the world the page was accessed. ||
-level 2
-
-|- | has\_js || catalogue.fiware.org || Expires with the session || This
-cookie indicates that the Drupal instance contains custom javascript
-files || level 1
-
-|- | Drupal.tableDrag.showWeight || catalogue.fiware.org || 1 year ||
-This cookie stores user interface preferences || level 1
-
-|- | \_ga || .fi-ware.org || 2 years || This cookie is used for getting
-use stats from the users of the portals || level 2
-
-|- | \_gat || .fi-ware.org || 2 years || This cookie is used for getting
-use stats from the users of the portals || level 2
-
-|- | cookie-agreed || catalogue.fiware.org || 3 months || This cookie
-indicates that you have already read the cookie policies || level 1 |}
+## Cookies of FIWARE Academy.
 
 
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+| MoodleSession | edu.fiware.org | Session | To keep the reference of the current session | 1 |
+| \_ga | .fiware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
+| \_gat | .fiware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
+| popup\_cookie | edu.fiware.org | 1 hour | This cookie is used to show a popup/welcome the first time an user visits this website | 2 |
 
-\= Cookies of FIWARE backlog = {| class="wikitable" style="margin: 1em
-auto 1em auto" cellpadding="10" cellspacing="2"
 
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
+## FIWARE Catalogue Cookies
 
-|- | \_ga || fi-ware.local || 2 years || This cookie is used for getting
-use stats from the users of the portals || Level 2 |- | \_\_cfduid||
-.highcharts.com || 1 year|| This cookie overrides any security
-restrictions based on the IP address the visitor is coming from. It does
-not contain any user identification information|| Level 2 |}
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+| \_\_utma | google-analytics.com ga.js | 2 years |This cookie keeps a record of the number of times a user has visited a site, and when the first and last visits were. | 2 |
+| \_\_utmc | google-analytics.com ga.js | Expires with the session | This cookie helps to calculate how long a user's visit lasts, storing the time the user exits the page. | 2 |
+| \_\_utmz | google-analytics.com ga.js | Expires with the session | This cookie keeps track of where the visitor comes from, which search engine was used, which link he/she clicked on, what key words were used and from where in the world the page was accessed. | 2 |
+| has\_js | catalogue.fiware.org | Expires with the session | This cookie indicates that the Drupal instance contains custom javascript files | 1 |
+| Drupal.tableDrag.showWeight | catalogue.fiware.org | 1 year | This cookie stores user interface preferences | 1 |
+| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
+| \_gat | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
+| cookie-agreed | catalogue.fiware.org | 3 months | This cookie indicates that you have already read the cookie policies | 1 |
 
-\=Cookie Levels= The cookies detailed above are graded on an
-"intrusiveness level " on a scale of 1 to 3, in which:
 
-  - Level 1: corresponds to internally-used cookies that are essential
-    for provision of the service requested by the user.
-  - Level 2: corresponds to anonymous, internally-used cookies necessary
-    for the maintenance of contents and browsing, as well as cookies
-    managed by third parties in the framework of services expressly
-    requested by the user on their websites (e.g. Social Plugins from
-    Facebook or Twitter).
-  - Level 3: corresponds to cookies managed by third parties in the
-    framework of services not expressly requested by the user,
-    permitting tracking of these through websites not owned by FIWARE
-    (e.g. graphic advertising management platforms). The specification
-    of this level is accompanied by its owner. The use of level 3
-    cookies is subject to the user's prior permission by means of
-    express confirmation of acceptance.
+## FIWARE backlog Cookies.
+
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+| \_ga | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
+|\_\_cfduid | .highcharts.com | 1 year| This cookie overrides any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information| 2 |
+
+
+## Cookie Level.  
+The cookies detailed above are graded on an "intrusiveness level " on a scale of 1 to 3, in which:  
+* **Level 1**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
+* **Level 2**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their websites (e.g. Social Plugins from Facebook or Twitter).
+* **Level 3**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through websites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 cookies is subject to the user's prior permission by means of express confirmation of acceptance.

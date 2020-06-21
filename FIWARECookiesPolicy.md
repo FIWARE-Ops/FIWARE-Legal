@@ -59,79 +59,27 @@ of the websites with which they are associated.
 | \_gat | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
 | complianceCookie | fi-ware.local | 1 week | This cookie is used for showing cookies terms advice | 1 |
 | PREF | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
-| VISITOR\_INFO1\_LIVE | .youtube.com | 8 months || YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
-
-- | YSC || .youtube.com ||
-Expires with the session || YouTube collects user data through videos
-embedded in websites, which is aggregated with profile data from other
-Google services in order to display targeted advertising to web visitors
-across a broad range of their own and other websites. || Level 2 |- |
-CMDD || .casalemedia.com || 1 day || Used for Advertising monitoring and
-retargeting. More info including opt-out at http://www.casalemedia.com/
-|| Level 3 |- | CMID || .casalemedia.com || 1 year || Used for
-Advertising monitoring and retargeting. More info including opt-out at
-http://www.casalemedia.com/ || Level 3 |- | CMPS || .casalemedia.com ||
-3 months || Used for Advertising monitoring and retargeting. More info
-including opt-out at http://www.casalemedia.com/ || Level 3 |- | CMRUM3
-|| .casalemedia.com || 1 year || Used for Advertising monitoring and
-retargeting. More info including opt-out at http://www.casalemedia.com/
-|| Level 3 |- | CMSC || .casalemedia.com || Expires with the session ||
-Used for Advertising monitoring and retargeting. More info including
-opt-out at http://www.casalemedia.com/ || Level 3 |- | CMST ||
-.casalemedia.com || 1 day || Used for Advertising monitoring and
-retargeting. More info including opt-out at http://www.casalemedia.com/
-|| Level 3 |- | \_ga || Dataxu.com via .w55c.net || 1 month || Used for
-Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchbidswitch || Dataxu.com via .w55c.net || 1 month ||
-Used for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchbluekai || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchcasale || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchdemdex || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchfbx || Dataxu.com via .w55c.net || 1 month || Used for
-Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchgoogle || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchopenx || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchpubmatic || Dataxu.com via .w55c.net || 1 month ||
-Used for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchspotx || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | matchyahoo || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | wfivefivec || Dataxu.com via .w55c.net || 1 month || Used
-for Web Traffic statistics and ad interaction monitoring. More info
-including opt-out at
-http://www.dataxu.com/about-us/privacy/data-collection-platform/ ||
-Level 3 |- | EQUser || .eqads.com || 3 months || Collecting information
-at aggregate level for site scoring for advertising companies. More info
-including opt-out at http://www.eqworks.com/about/privacy-policy/ ||
-Level 3 |}
+| VISITOR\_INFO1\_LIVE | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
+| YSC | .youtube.com | Expires with the session | YouTube collects user data through videos. embedded in websites, which is aggregated with profile data from other embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
+| CMDD | .casalemedia.com | 1 day | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| CMID | .casalemedia.com | 1 year | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| CMPS | .casalemedia.com | 3 months | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| CMRUM3 | .casalemedia.com | 1 year | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| CMSC | .casalemedia.com | Expires with the session | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| CMST | .casalemedia.com | 1 day | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
+| \_ga | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchbidswitch | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchbluekai | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchcasale | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchdemdex | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchfbx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchgoogle | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchopenx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchpubmatic | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchspotx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| matchyahoo | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| wfivefivec | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
+| EQUser | .eqads.com | 3 months | Collecting information at aggregate level for site scoring for advertising companies. More info including opt-out at http://www.eqworks.com/about/privacy-policy/ | 3 |
 
 
 

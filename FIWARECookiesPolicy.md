@@ -118,17 +118,15 @@ of the websites with which they are associated.
 | popup\_cookie | ask.fiware.org | 1 hour | This cookie is used to show/hide an informative cookie popup | 1 |
 
 
-\= Cookies of FIWARE Mailing Lists Website = {| class="wikitable"
-style="margin: 1em auto 1em auto" cellpadding="10" cellspacing="2"
+## FIWARE Mailing Lists Website Cookies.  
 
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+|| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals. | 2 |
+| name of the mailing list + user | lists.fiware.org | Expires with the session This cookie is used as session identifier. | 1 |
 
-|- | \_ga || .fi-ware.org || 2 years || This cookie is used for getting
-use stats from the users of the portals. || level 2 |- | name of the
-mailing list + user || lists.fiware.org || Expires with the session ||
-This cookie is used as session identifier. || level 1 |}
 
-\= Cookies of FIWARE Academy = Specifically, on the user's device,
+## Cookies of FIWARE Academy = Specifically, on the user's device,
 fiware.org stores the analytical cookies of Google Analytics. Users can
 exclude their individual activity by means of the exclusion systems
 facilitated by

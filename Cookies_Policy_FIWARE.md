@@ -22,25 +22,25 @@ However, users can set up their browsers to accept or reject cookies, or
 select those allowed and those excluded by executing one of the
 following procedures, depending on the browser in use:
 
-**Google Chrome**<br>
+**Google Chrome**   
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
-Cookies\<br>
+Cookies\   
 More information: https://support.google.com/chrome/answer/95647?hl=en
 
-**Microsoft Internet Explorer**<br>
-(in the Tools Menu): Internet \> Privacy \> Advanced\<br>
+**Microsoft Internet Explorer**   
+(in the Tools Menu): Internet \> Privacy \> Advanced\   
 More information: http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies\#ie=ie-9
 
-**Firefox**<br>
-Options \> Privacy \> Cookies\<br>
+**Firefox**   
+Options \> Privacy \> Cookies\   
 More information: http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
 
-**Safari**, iPad y iPhone<br>
-Preferences \> Privacy\<br>
+**Safari**, iPad y iPhone   
+Preferences \> Privacy\   
 More information: http://www.apple.com/privacy/use-of-cookies/
 
-**Opera**<br>
-Settings \> Preferences \> Advanced \> Cookies\<br>
+**Opera**   
+Settings \> Preferences \> Advanced \> Cookies\   
 More information: http://help.opera.com/Linux/10.60/en/cookies.html
 
 \<br/\> Analytical cookies:

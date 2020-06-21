@@ -22,10 +22,9 @@ However, users can set up their browsers to accept or reject cookies, or
 select those allowed and those excluded by executing one of the
 following procedures, depending on the browser in use:
 
-**Google Chrome**
+**Google Chrome**<br>
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
-Cookies\<br/\>
-
+Cookies\<br/\><br>
 More information: https://support.google.com/chrome/answer/95647?hl=en
 
 **Microsoft Internet Explorer**

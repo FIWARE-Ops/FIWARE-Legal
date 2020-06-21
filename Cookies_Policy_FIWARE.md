@@ -1,3 +1,5 @@
+# FIWARE Cookies Policy
+## Introdcution
 In accordance with the applicable law regarding the use of
 cookies in relation to the provision of electronic communication
 services, We, the FIWARE Foundation e.V., hereby inform you about the
@@ -18,9 +20,8 @@ information technology services, because, among others:
 1. They mean that users do not have to set up the general, predefined characteristics each time they enter the Website
 1. They enable us to improve the functioning and the services provided through the Website, after the corresponding analysis of the information obtained through the cookies installed.
 
-However, users can set up their browsers to accept or reject cookies, or
-select those allowed and those excluded by executing one of the
-following procedures, depending on the browser in use:
+However, users can set up their browsers to accept or reject cookies, or select those allowed and those excluded.
+In the following are listed the procedures to be executed for the most popular browsers.
 
 **Google Chrome**   
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
@@ -43,9 +44,9 @@ More information: http://www.apple.com/privacy/use-of-cookies/
 Settings \> Preferences \> Advanced \> Cookies   
 More information: http://help.opera.com/Linux/10.60/en/cookies.html
 
-\<br/\> Analytical cookies:
+## Analytical cookies
 
-These make it possible to track and analyse the behaviour of the users
+Analytical cookies make it possible to track and analyse the behaviour of the users
 of the websites with which they are associated.
 
 \= Cookies of FIWARE Lab = Specifically, on the user's device,

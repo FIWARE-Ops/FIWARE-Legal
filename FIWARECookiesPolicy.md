@@ -55,12 +55,10 @@ of the websites with which they are associated.
 
 | Cookie | Owner | Duration | Purpose | Level |
 |--------|-------|----------|---------|-------|
-
-
 | NID | .google.com | 6 months | Google uses this cookie, like the
-PREF, to help customise ads on Google properties, like Google Search. |
+PREF, to help customise ads on Google properties, like Google Search. |. 
 Level 2 |
-| PHPSESSID | fi-ware.local | Expires with the session | Server cookie to keep server session | Level 1 |
+| PHPSESSID | fi-ware.local | Expires with the session | Server cookie to keep server session | Level 1 |. 
 
 - | \_ga ||
 fi-ware.local || 2 years || This cookie is used for getting use stats

@@ -25,15 +25,15 @@ following procedures, depending on the browser in use:
 **Google Chrome**   
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies   
-More information: https://support.google.com/chrome/answer/95647?hl=en
+More information: https://support.google.com/chrome/answer/95647?hl=en.  
 
 **Microsoft Internet Explorer**   
 (in the Tools Menu): Internet \> Privacy \> Advanced   
-More information: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+More information: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies.  
 
 **Firefox**   
 Options \> Privacy \> Cookies   
-More information: http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+More information: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop.    
 
 **Safari**, iPad y iPhone   
 Preferences \> Privacy   

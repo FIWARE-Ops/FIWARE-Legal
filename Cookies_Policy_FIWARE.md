@@ -1,7 +1,7 @@
-**NOTOC** In accordance with the applicable law regarding the use of
+In accordance with the applicable law regarding the use of
 cookies in relation to the provision of electronic communication
 services, We, the FIWARE Foundation e.V., hereby inform you about the
-cookies used on the websites owned by Us (hereinafter, the "Websites")
+cookies used on the websites owned by us (hereinafter, the "Websites")
 and why they are used. By browsing the Websites, you are giving your
 consent for them to be used. The cookies used on our Websites include
 both 'our own' and those of third parties and they enable us to store
@@ -13,15 +13,10 @@ personalized manner. Websites does not use advertising or behavioral
 advertising cookies.
 
 The use of cookies offers numerous advantages in the provision of
-information technology services, because, among others: \<ol
-style="list-style-type: lower-roman;"\> \<li\>they make it easier for
-the user to browse the Website and access the different services on
-offer;\</li\> \<li\>they mean that users do not have to set up the
-general, predefined characteristics each time they enter the
-Website;\</li\> \<li\>they enable us to improve the functioning and the
-services provided through the Website, after the corresponding analysis
-of the information obtained through the cookies installed.\</li\>
-\</ol\>
+information technology services, because, among others:
+1. They make it easier for the user to browse the Website and access the different services on offer
+1. They mean that users do not have to set up the general, predefined characteristics each time they enter the Website
+1. They enable us to improve the functioning and the services provided through the Website, after the corresponding analysis of the information obtained through the cookies installed.
 
 However, users can set up their browsers to accept or reject cookies, or
 select those allowed and those excluded by following one of the

@@ -29,7 +29,7 @@ More information: https://support.google.com/chrome/answer/95647?hl=en
 
 **Microsoft Internet Explorer**   
 (in the Tools Menu): Internet \> Privacy \> Advanced   
-More information: http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies\#ie=ie-9
+More information: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
 
 **Firefox**   
 Options \> Privacy \> Cookies   

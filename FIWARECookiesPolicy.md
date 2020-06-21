@@ -58,11 +58,11 @@ of the websites with which they are associated.
 | \_ga | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
 | \_gat | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
 | complianceCookie | fi-ware.local | 1 week | This cookie is used for showing cookies terms advice | 1 |
-| PREF | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites,
-which is aggregated with profile data from other Google services in order to display targeted advertising to web
+| PREF | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites, which is aggregated
+with profile data from other Google services in order to display targeted advertising to web
 visitors across a broad range of their own and other websites. | 2 |
-| VISITOR\_INFO1\_LIVE | .youtube.com | 8 months || YouTube collects user data through videos embedded in websites,
-which is aggregated with profile data from other Google services in order to display targeted advertising
+| VISITOR\_INFO1\_LIVE | .youtube.com | 8 months || YouTube collects user data through videos embedded in websites, which is
+aggregated with profile data from other Google services in order to display targeted advertising
 to web visitors across a broad range of their own and other websites. | 2 |
 
 - | YSC || .youtube.com ||

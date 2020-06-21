@@ -88,14 +88,11 @@ of the websites with which they are associated.
 
 | Cookie | Owner | Duration | Purpose | Level |
 |--------|-------|----------|---------| :---: |
-| \_\_utma | google-analytics.com \<br/\> ga.js || 2 years || This
-cookie keeps a record of the number of times a user has visited a site,
-and when the first and last visits were. || level 2
-
-|-
-
+| \_\_utma | google-analytics.com   
+ga.js | 2 years | This cookie keeps a record of the number of times a user has visited a site, and when the first and last visits were. | 2 |
 | \_\_utmc | google-analytics.com.  
 ga.js | Expires with the session | This cookie helps to calculate how long a user's visit lasts, storing the time the user exits the page. | 2 |
+
 
 |- | \_\_utmz || google-analytics.com \<br/\> ga.js || Expires with the
 session || This cookie keeps track of where the visitor comes from,

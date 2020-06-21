@@ -49,8 +49,7 @@ More information: http://help.opera.com/Linux/10.60/en/cookies.html
 Analytical cookies make it possible to track and analyse the behaviour of the users
 of the websites with which they are associated.
 
-\= Cookies of FIWARE website = {| class="wikitable" style="margin: 1em
-auto 1em auto" cellpadding="10" cellspacing="2"
+## Cookies of FIWARE website (fiware.org).  
 
 # style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
 

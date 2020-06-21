@@ -23,6 +23,7 @@ select those allowed and those excluded by executing one of the
 following procedures, depending on the browser in use:
 
 **Google Chrome**
+
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies\<br/\> More information:
 https://support.google.com/chrome/answer/95647?hl=en

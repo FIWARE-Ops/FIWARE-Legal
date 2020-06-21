@@ -19,8 +19,8 @@ information technology services, because, among others:
 1. They enable us to improve the functioning and the services provided through the Website, after the corresponding analysis of the information obtained through the cookies installed.
 
 However, users can set up their browsers to accept or reject cookies, or
-select those allowed and those excluded by following one of the
-following procedures, depending on the browser used:
+select those allowed and those excluded by executing one of the
+following procedures, depending on the browser in use:
 
   - Google Chrome (in the Tools Menu)
 

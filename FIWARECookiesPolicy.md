@@ -83,7 +83,7 @@ of the websites with which they are associated.
 
 
 
-## FIWARE Lab Cookies.   
+## FIWARE Lab (lab.fiware.org) Cookies.   
 
 
 | Cookie | Owner | Duration | Purpose | Level |
@@ -107,21 +107,16 @@ of the websites with which they are associated.
 | NID | help.lab.fi-ware.org \<br/\> youtube/google | 6 months | Google uses this cookie, like the PREF, to help customise ads on Google properties, like Google Search. | 2 |
 
 
-\= Cookies of FIWARE Q\&A = {| class="wikitable" style="margin: 1em auto
-1em auto" cellpadding="10" cellspacing="2"
+## FIWARE Q\&A (ask.fiware.org) Cookies.   
 
-# style="background:\#82B4D8; text-align:center;" | Cookie || style="background:\#82B4D8; text-align:center;" | Owner || style="background:\#82B4D8; text-align:center;" | Duration || style="background:\#82B4D8; text-align:center;" | Purpose || style="background:\#82B4D8; text-align:center;" | Level
+| Cookie | Owner | Duration | Purpose | Level |
+|--------|-------|----------|---------| :---: |
+| \_csrf | ask.fiware.org | 1 year | This cookie is used to avoid "Cross-site request forgery" attacks. | 2 |
+| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals. | 2 |
+| askbot\_visitor | ask.fiware.org | Expires with the session | This cookie is used to show a popup/welcome the first time an user visits this website. | 2 |
+| sessionid | ask.fiware.org | 2 weeks | This cookie is used as session identifier. | 1 |
+| popup\_cookie | ask.fiware.org | 1 hour | This cookie is used to show/hide an informative cookie popup | 1 |
 
-|- | \_csrf || ask.fiware.org || 1 year || This cookie is used to avoid
-"Cross-site request forgery" attacks. || level 2 |- | \_ga ||
-.fi-ware.org || 2 years || This cookie is used for getting use stats
-from the users of the portals. || level 2 |- | askbot\_visitor ||
-ask.fiware.org || Expires with the session || This cookie is used to
-show a popup/welcome the first time an user visits this website. ||
-level 2 |- | sessionid || ask.fiware.org || 2 weeks || This cookie is
-used as session identifier. || level 1 |- | popup\_cookie ||
-ask.fiware.org || 1 hour || This cookie is used to show/hide an
-informative cookie popup || level 1 |}
 
 \= Cookies of FIWARE Mailing Lists Website = {| class="wikitable"
 style="margin: 1em auto 1em auto" cellpadding="10" cellspacing="2"

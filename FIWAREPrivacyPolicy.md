@@ -3,37 +3,29 @@
 This is the main privacy policy for fiware.org and for certain services provided through these and other FIWARE websites and applications (“Our Sites”) by FIWARE Foundation, e.V. (“FIWARE”).
 
 At FIWARE we collect different types of information about our users for three main reasons:
-* To provide personalised services unique to individual users
-* To help us to monitor and improve the services we offer
-* For the users we have permission, to market services, always in scope of the FIWARE Foundation mission.
+1. To provide personalised services unique to individual users
+1. To help us to monitor and improve the services we offer
+1. For the users we have permission, to market services, always in scope of the FIWARE Foundation mission.
 
 There may be other privacy policies that apply to certain services we provide. Please read these when you register or subscribe for these services on those specific sites.
 
 ## Our principles
 
-<ol type="1">
-    <li> FIWARE adopts the necessary technical and organisational measures to avoid the loss, misuse, alteration, unauthorised access or theft of the personal data provided, taking into account the state of technology, the nature of the data and the risks to which they are exposed. This means:
+1. FIWARE adopts the necessary technical and organisational measures to avoid the loss, misuse, alteration, unauthorised access or theft of the personal data provided, taking into account the state of technology, the nature of the data and the risks to which they are exposed. This means:
+* we make sure that we have appropriate security measures to protect your information; and</li>
+* we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures.  
 
-        <ul style="list-style-type:disc">
-            <li> we make sure that we have appropriate security measures to protect your information; and</li>
-            <li> we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures.</li>
-        </ul>
-    </li>  
+1. To respect your privacy is a topmost of our concerns. You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen following the current European and German legislation. We will make sure it is clear when you can make these choices. However, we may email you occasionally with information or questions about your registration, your subscription account, or postings, for example, with reminders, warnings, business opportunities, or copyright requests.
 
-    <li> To respect your privacy is a topmost of our concerns. You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen following the current European and German legislation. We will make sure it is clear when you can make these choices. However, we may email you occasionally with information or questions about your registration, your subscription account or postings, for example, with reminders, warnings, business opportunities, or copyright requests.</li>
+1. We will collect and use individual user details only if we have explicit permission to do so, or we have sensible business reasons for doing so, such as collecting enough information to manage subscriptions.
 
-    <li> We will collect and use individual user details only if we have explicit permission to do so, or we have sensible business reasons for doing so, such as collecting enough information to manage subscriptions.</li>
+1. We will be clear in our dealings with you as to what information about you we will collect and how we will use it.
 
-    <li> We will be clear in our dealings with you as to what information about you we will collect and how we will use it.</li>
+1. We will use personal information only for the purposes for which it was originally collected, how they are defined at the beginning of this document, and we will make sure we delete it securely.
 
-    <li> We will use personal information only for the purposes for which it was originally collected, how they are defined at the beginning of this document, and we will make sure we delete it securely.</li>
+1. Our Site is accessible via the internet. This means that people around the World who access our website can see anything you post on the website or twitter comments with the FIWARE hash.
 
-    <li> Our site is accessible via the internet. This means that people around the World who access our website can see anything you post on the website or twitter comments with the FIWARE hash.</li>
-
-    <li> If we or our service providers transfer any information out of the European Union (EU), it will only be done with the relevant protection (stated under European and German law) being in place.</li>
-
-</ol>
-
+1. If we or our service providers transfer any information out of the European Union (EU), it will only be done with the relevant protection (stated under European and German law) being in place.   
 
 The information that it is collected from you consist on:
 * when you register or become a member of our portals 

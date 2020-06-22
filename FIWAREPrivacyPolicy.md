@@ -129,6 +129,6 @@ Should we elect to change our privacy policy we will post the changes here. Wher
 
 | Date | Changes |
 |------|---------|
-| May 2018 | Changes due to the EU General Data Protection Regulation. |
-| December 2017 | Privacy Policy version due to Data Controller change [[FI-NEXT:_FIWARE_Privacy_Policy|FIWARE Privacy Policy]]. | 
-| June 2016 | Creation of the [[FI-Core:_FIWARE_Privacy_Policy|FIWARE Privacy Policy]]. |
+| May 2018 | Changes due to the EU General Data Protection Regulation (GDPR). |
+| December 2017 | Privacy Policy version due to Data Controller change (FI-NEXT: FIWARE_Privacy_Policy - FIWARE Privacy Policy). | 
+| June 2016 | Creation of the (FI-Core: FIWARE_Privacy_Policy - FIWARE Privacy Policy). |

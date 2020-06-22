@@ -1,15 +1,15 @@
 # FIWARE Privacy Policy
 
-This is the main privacy policy for fiware.org and for certain services provided through these and other FIWARE websites and applications (“our sites”) by FIWARE Foundation, e.V. (“FIWARE”).
+This is the main privacy policy for fiware.org and for certain services provided through these and other FIWARE websites and applications (“Our Sites”) by FIWARE Foundation, e.V. (“FIWARE”).
 
 At FIWARE we collect different types of information about our users for three main reasons:
-# To provide personalised services unique to individual users
-# To help us to monitor and improve the services we offer
-# For the users we have permission, to market services, always in scope of the FIWARE Foundation mission.
+* To provide personalised services unique to individual users
+* To help us to monitor and improve the services we offer
+* For the users we have permission, to market services, always in scope of the FIWARE Foundation mission.
 
-There may be other privacy policies that apply to certain services we provide. Please read these when you register or subscribe for these services on these sites.
+There may be other privacy policies that apply to certain services we provide. Please read these when you register or subscribe for these services on those specific sites.
 
-==Our principles==
+## Our principles
 
 <ol type="1">
     <li> FIWARE adopts the necessary technical and organisational measures to avoid the loss, misuse, alteration, unauthorised access or theft of the personal data provided, taking into account the state of technology, the nature of the data and the risks to which they are exposed. This means:

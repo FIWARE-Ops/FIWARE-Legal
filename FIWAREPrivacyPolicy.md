@@ -1,4 +1,4 @@
-# FIWARE Privacy Policy
+# Personal Data Protection Policy
 
 This is the main privacy policy for fiware.org and for certain services provided through these and other FIWARE websites and applications (“Our Sites”) by FIWARE Foundation, e.V. (“FIWARE”).
 

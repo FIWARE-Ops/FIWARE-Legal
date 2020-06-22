@@ -12,8 +12,8 @@ There may be other privacy policies that apply to certain services we provide. P
 ## Our principles
 
 1. FIWARE adopts the necessary technical and organisational measures to avoid the loss, misuse, alteration, unauthorised access or theft of the personal data provided, taking into account the state of technology, the nature of the data and the risks to which they are exposed. This means:
-   * we make sure that we have appropriate security measures to protect your information; and
-   * we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures.  
+   * we make sure that we have in place appropriate security measures to protect your information; and
+   * we make sure that when we ask another organisation to provide a service for us, they have in place appropriate security measures as well.  
 
 1. To respect your privacy is a topmost of our concerns. You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen following the current European and German legislation. We will make sure it is clear when you can make these choices. However, we may email you occasionally with information or questions about your registration, your subscription account, or postings, for example, with reminders, warnings, business opportunities, or copyright requests.
 

@@ -230,7 +230,7 @@ You acknowledge that the provision of the FIWARE Lab Services might not be avail
 # Term and Termination
 ## Term
 
-This Agreement shall enter into force from the Effective Date in accordance with section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) above, and will remain in effect until terminated by You or Us in accordance with section [[#Termination|Termination]], or as varied by any new Terms and Conditions which may be posted on the website as permitted at section [[#Amendment of this Agreement|Amendment of this Agreement]].
+This Agreement shall enter into force from the Effective Date in accordance with section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) above, and will remain in effect until terminated by You or Us in accordance with section [[#Termination|Termination]], or as varied by any new Terms and Conditions which may be posted on the website as permitted at section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement).
 
 ## Termination
 

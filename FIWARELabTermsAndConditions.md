@@ -12,48 +12,46 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. together with the parties providing resources for the various FIWARE Lab nodes and listed in the FIWARE Lab infographic page at http://infographic.lab.fiware.org/.
 
-'''FIWARE Generic Enabler implementation (GEi)''' products or '''FIWARE GEi''' are the products described in the FIWARE Catalogue (http://catalogue.fiware.org).
+**FIWARE Generic Enabler implementation (GEi)** products or **FIWARE GEi** are the products described in the FIWARE Catalogue (http://catalogue.fiware.org).
 
-'''FIWARE Lab Services''' refer to services:
+**FIWARE Lab Services** refer to services:
 
- <ol type="a">
-  <li>made available at the '''FIWARE Lab Site''' (lab.fiware.org), including hosting services provided by the "'''FIWARE Lab Cloud'''" (https://cloud.lab.fiware.org); or</li>
-  <li>provided by instances of FIWARE Generic Enabler implementation (GEi) products that have been deployed by any of Us on the FIWARE Lab Cloud and offered to You or have been deployed by You on the FIWARE Lab Cloud using the tools and services that the FIWARE Lab Cloud provides or using the installation and administration guides provided to You for that purpose.</li>
-</ol> 
+1. made available at the **FIWARE Lab Site** (lab.fiware.org), including hosting services provided by the **FIWARE Lab Cloud** (https://cloud.lab.fiware.org); or
+1. provided by instances of FIWARE Generic Enabler implementation (GEi) products that have been deployed by any of Us on the FIWARE Lab Cloud and offered to You or have been deployed by You on the FIWARE Lab Cloud using the tools and services that the FIWARE Lab Cloud provides or using the installation and administration guides provided to You for that purpose. 
 
-'''Account Management Provider''' refers to the FIWARE partner dealing with account management functions for the FIWARE Lab site.
+**Account Management Provider** refers to the FIWARE partner dealing with account management functions for the FIWARE Lab site.
 
-'''Generic Enabler Provider''' refers individually to the relevant FIWARE partner who is providing the relevant FIWARE GEi product which You or Your End User is accessing.
+**Generic Enabler Provider** refers individually to the relevant FIWARE partner who is providing the relevant FIWARE GEi product which You or Your End User is accessing.
 
-'''This Agreement''' refers to the agreement between You and Us (each referred to individually as "Party" and collectively as the "Parties") in compliance with clauses defined in section [[#Rights and Obligations|Rights and Obligations]].
+**This Agreement** refers to the agreement between You and Us (each referred to individually as "Party" and collectively as the "Parties") in compliance with clauses defined in section [[#Rights and Obligations|Rights and Obligations]].
 
-'''The Effective Date''' is the date from which this Agreement takes effect as defined in section [[#Rights and Obligations|Rights and Obligations]].
+**The Effective Date** is the date from which this Agreement takes effect as defined in section [[#Rights and Obligations|Rights and Obligations]].
 
-'''Your Account''' is the user account You have to create, in compliance with the provisions of section [[#Registration and User Account|Registration and User Account]], in order to be able to use FIWARE Lab Services.
+**Your Account** is the user account You have to create, in compliance with the provisions of section [[#Registration and User Account|Registration and User Account]], in order to be able to use FIWARE Lab Services.
 
-'''Other User''' means any individual or entity, other than You, that have created a user account in compliance with clauses defined in section [[#Registration and User Account|Registration and User Account]] and therefore accesses and/or uses FIWARE Lab Services.
+**Other User** means any individual or entity, other than You, that have created a user account in compliance with clauses defined in section [[#Registration and User Account|Registration and User Account]] and therefore accesses and/or uses FIWARE Lab Services.
 
-'''End User''' means any individual or entity that accesses and/or uses Your content or FIWARE Lab Services under Your Account.
+**End User** means any individual or entity that accesses and/or uses Your content or FIWARE Lab Services under Your Account.
 
-'''Content''' means software, data, text, audio, video, images and other information.
+**Content** means software, data, text, audio, video, images and other information.
 
-'''FIWARE Lab Content''' means Content We, or any of Our affiliates, make available in connection with the FIWARE Lab Services or on the FIWARE Lab Site, including but not limited to Content deployed on the FIWARE Lab Cloud.
+**FIWARE Lab Content** means Content We, or any of Our affiliates, make available in connection with the FIWARE Lab Services or on the FIWARE Lab Site, including but not limited to Content deployed on the FIWARE Lab Cloud.
 
-'''FIWARE Lab Information''' means data, text, audio, video, images and other information that is provided as part of FIWARE Lab Content, or is attached or used together with FIWARE Lab Content.
+**FIWARE Lab Information** means data, text, audio, video, images and other information that is provided as part of FIWARE Lab Content, or is attached or used together with FIWARE Lab Content.
 
-'''Your Content''' means Content You, or any End User under Your Account or in connection with Your Account, deploy on the FIWARE Lab Site, including but not limited to the FIWARE Lab Cloud, or cause to interface with the FIWARE Lab Services.
+**Your Content** means Content You, or any End User under Your Account or in connection with Your Account, deploy on the FIWARE Lab Site, including but not limited to the FIWARE Lab Cloud, or cause to interface with the FIWARE Lab Services.
 
-'''Your Data''' means data, text, audio, video, images and other information that is part of Your Content, or is attached or used together with Your Content.
+**Your Data** means data, text, audio, video, images and other information that is part of Your Content, or is attached or used together with Your Content.
 
-'''Your Software''' means software (included related documentation), applications or any other tool developed, owned and/or licensed by You.
+**Your Software** means software (included related documentation), applications or any other tool developed, owned and/or licensed by You.
 
-'''Third Party Content''' means Content made available to You by any third party on the FIWARE Lab Site, including but not limited to the FIWARE Lab Cloud, or in conjunction with FIWARE Lab Services.
+**Third Party Content** means Content made available to You by any third party on the FIWARE Lab Site, including but not limited to the FIWARE Lab Cloud, or in conjunction with FIWARE Lab Services.
 
-'''Third Party Data''' means data, text, audio, video, images and other information that is part of Third Party Content, or is attached or used together with Third Party Content.
+**Third Party Data** means data, text, audio, video, images and other information that is part of Third Party Content, or is attached or used together with Third Party Content.
 
-'''Third Party Software''' means software (included related documentation), applications or any other tool developed, owned and/or licensed by any third party.
+**Third Party Software** means software (included related documentation), applications or any other tool developed, owned and/or licensed by any third party.
 
-'''Your Feedback''' means all reviews, comments, suggestions, bugs and issues reports, enhancement requests, questions, or other information You provide to Us with respect to FIWARE Lab Services or these Terms and Conditions.
+**Your Feedback** means all reviews, comments, suggestions, bugs and issues reports, enhancement requests, questions, or other information You provide to Us with respect to FIWARE Lab Services or these Terms and Conditions.
 
 ==Binding agreement==
 

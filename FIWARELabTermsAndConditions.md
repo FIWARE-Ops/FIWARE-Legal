@@ -23,9 +23,9 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 1. **Generic Enabler Provider** refers individually to the relevant FIWARE partner who is providing the relevant FIWARE GE product which You or Your End User is accessing.
 
-1. **This Agreement** refers to the agreement between You and Us (each referred to individually as "Party" and collectively as the "Parties") in compliance with clauses defined in section [[#Rights and Obligations|Rights and Obligations]].
+1. **This Agreement** refers to the agreement between You and Us (each referred to individually as "Party" and collectively as the "Parties") in compliance with clauses defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
 
-1. **The Effective Date** is the date from which this Agreement takes effect as defined in section [[#Rights and Obligations|Rights and Obligations]].
+1. **The Effective Date** is the date from which this Agreement takes effect as defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
 
 1. **Your Account** is the user account You have to create, in compliance with the provisions of section [[#Registration and User Account|Registration and User Account]], in order to be able to use FIWARE Lab Services.
 

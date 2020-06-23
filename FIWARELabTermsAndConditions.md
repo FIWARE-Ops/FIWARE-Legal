@@ -27,9 +27,9 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 1. **The Effective Date** is the date from which this Agreement takes effect as defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
 
-1. **Your Account** is the user account You have to create, in compliance with the provisions of section [[#Registration and User Account|Registration and User Account]], in order to be able to use FIWARE Lab Services.
+1. **Your Account** is the user account You have to create, in compliance with the provisions of section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account), in order to be able to use FIWARE Lab Services.
 
-1. **Other User** means any individual or entity, other than You, that have created a user account in compliance with clauses defined in section [[#Registration and User Account|Registration and User Account]] and therefore accesses and/or uses FIWARE Lab Services.
+1. **Other User** means any individual or entity, other than You, that have created a user account in compliance with clauses defined in section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account) and therefore accesses and/or uses FIWARE Lab Services.
 
 1. **End User** means any individual or entity that accesses and/or uses Your content or FIWARE Lab Services under Your Account.
 

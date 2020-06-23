@@ -1,11 +1,10 @@
-{{TOCright}}
-=General=
+# Introduction
 
-==Object==
+## Object
 
 This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly known as FI-Lab) Terms and Conditions that regulate the access to and use of FIWARE Open Innovation Lab (hereinafter, the "FIWARE Lab") Services.
 
-==Definitions==
+## Definitions
 
 '''Terms and Conditions''' refer to the FIWARE Lab Terms and Conditions.
 

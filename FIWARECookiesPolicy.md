@@ -1,5 +1,5 @@
 # FIWARE Cookies Policy
-## Introdcution
+## Introduction
 In accordance with the applicable law regarding the use of
 cookies in relation to the provision of electronic communication
 services, We, the FIWARE Foundation e.V., hereby inform you about the

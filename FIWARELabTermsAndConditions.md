@@ -384,13 +384,9 @@ You and Us agree that any dispute, claim or controversy arising out or in connec
 # Miscellaneous
 ## Notices
 
-1. To You.
+**To You** - Except as otherwise set forth herein, notices made by Us to You under this Agreement that affect You (e.g., updates services offer and description etc.) will generally be posted on the FIWARE Lab Site. Notices made by Us under this Agreement for You specifically (e.g., notices of breach and/or suspension) will be provided to You via (a) the email address provided to Us during creation of Your account for the FIWARE Lab Services or in any updated email address You provide to Us in accordance with standard account information update procedures We may provide from time to time and/or (b) through any other mean We consider appropriate. It is Your responsibility to keep Your email address current and You will be deemed to have received any email sent to any such email address, upon Our sending of the email, whether or not You actually receive the email.
 
-Except as otherwise set forth herein, notices made by Us to You under this Agreement that affect You (e.g., updates services offer and description etc.) will generally be posted on the FIWARE Lab Site. Notices made by Us under this Agreement for You specifically (e.g., notices of breach and/or suspension) will be provided to You via (a) the email address provided to Us during creation of Your account for the FIWARE Lab Services or in any updated email address You provide to Us in accordance with standard account information update procedures We may provide from time to time and/or (b) through any other mean We consider appropriate. It is Your responsibility to keep Your email address current and You will be deemed to have received any email sent to any such email address, upon Our sending of the email, whether or not You actually receive the email.
-
-1. To Us.
-
-For notices made by You to Us under this Agreement and for questions regarding this Agreement or the FIWARE Lab Services, You may contact Us through the FIWARE Lab Site at the Contact Us section.  
+**To Us** - For notices made by You to Us under This Agreement and for questions regarding this Agreement or the FIWARE Lab Services, You may contact Us through the FIWARE Lab Site at the Contact Us section.  
 
 ## Relationship
 
@@ -400,7 +396,7 @@ Nothing in this Agreement is intended to or does create any type of joint ventur
 
 This Agreement incorporates by reference all policies, specific particular provisions and guidelines posted on the FIWARE Lab Site, and constitutes the entire agreement between You and Us and supersedes all prior negotiations, representations, proposals, understandings and agreements whether written or oral relating to the subject matter of this Agreement.
 
-Each of the Parties acknowledges and agrees that in entering into this Agreement, it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in this Agreement. Nothing in this paragraph shall, however, operate to limit or exclude any liability for fraudulent misrepresentation.
+Each of the Parties acknowledges and agrees that in entering into This Agreement, it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in this Agreement. Nothing in this paragraph shall, however, operate to limit or exclude any liability for fraudulent misrepresentation.
 
 ## Force Majeure
 
@@ -408,11 +404,11 @@ Neither Party shall be deemed in default or liable to the other Party for any ma
 
 ## Severability
 
-If any part of this Agreement is held by a court of competent jurisdiction to be invalid, illegal or unenforceable, the remaining parts of this Agreement will remain in full force and effect. In such circumstances, the Parties shall negotiate in good faith in order to agree the terms of a mutually satisfactory provision, achieving as nearly as possible the same commercial effect, to be substituted for the provision which is found to be invalid, illegal or unenforceable.
+If any part of this Agreement is held by a court of competent jurisdiction to be invalid, illegal or unenforceable, the remaining parts of This Agreement will remain in full force and effect. In such circumstances, the Parties shall negotiate in good faith in order to agree the terms of a mutually satisfactory provision, achieving as nearly as possible the same commercial effect, to be substituted for the provision which is found to be invalid, illegal or unenforceable.
 
 ## Waivers
 
-The failure or delay by either Party to this Agreement to exercise or enforce any right, power or remedy under this Agreement shall not be deemed to operate as a waiver of any such right, power or remedy; nor shall any single or partial exercise by any party operate so as to bar the exercise or enforcement thereof or of any right, power or remedy on any later occasion.
+The failure or delay by either Party to This Agreement to exercise or enforce any right, power or remedy under This Agreement shall not be deemed to operate as a waiver of any such right, power or remedy; nor shall any single or partial exercise by any party operate so as to bar the exercise or enforcement thereof or of any right, power or remedy on any later occasion.
 
 ## Successors and Assigns
 
@@ -420,7 +416,7 @@ This Agreement will be binding upon, and inure to the benefit of the Parties and
 
 ## Language
 
-All communications and notices to be made or given pursuant to this Agreement shall be in the English language.
+All communications and notices to be made or given pursuant to This Agreement shall be in the English language.
 
 ## Previous version
 

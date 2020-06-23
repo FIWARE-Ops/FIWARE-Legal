@@ -2,15 +2,15 @@
 
 ## Object
 
-This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly known as FI-Lab) Terms and Conditions that regulate the access to and use of FIWARE Open Innovation Lab (hereinafter, the "FIWARE Lab") Services.
+This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly known as FI-Lab) Terms and Conditions that regulate the access to and use of FIWARE Open Innovation Lab (hereinafter, "FIWARE Lab") Services.
 
 ## Definitions
 
-'''Terms and Conditions''' refer to the FIWARE Lab Terms and Conditions.
+**Terms and Conditions** refer to the FIWARE Lab Terms and Conditions.
 
-'''You / Your''' refers, as applicable, to you or the entity you represent.
+**You / Your** refers, as applicable, to you or the entity you represent.
 
-'''We / Us / Our''' refers where applicable to the FIWARE Foundation e.V. together with the parties providing resources for the various FIWARE Lab nodes and listed in the FIWARE Lab infographic page at http://infographic.lab.fiware.org/.
+**We / Us / Our** refers where applicable to the FIWARE Foundation e.V. together with the parties providing resources for the various FIWARE Lab nodes and listed in the FIWARE Lab infographic page at http://infographic.lab.fiware.org/.
 
 '''FIWARE Generic Enabler implementation (GEi)''' products or '''FIWARE GEi''' are the products described in the FIWARE Catalogue (http://catalogue.fiware.org).
 

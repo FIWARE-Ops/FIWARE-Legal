@@ -364,7 +364,7 @@ Personal Data for these terms and conditions are handled according to Our [Perso
 
 # Assignment, Subcontracting and not Reselling
 
-You may not assign this Agreement or otherwise transfer any of its rights or obligations, including any credentials, the licenses or any other right, without our prior written consent, except where explicitly provided by section [[#Your rights and obligations|Your rights and obligations]].  
+You may not assign this Agreement or otherwise transfer any of its rights or obligations, including any credentials, the licenses or any other right, without our prior written consent, except where explicitly provided in section [Your rights and obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#your-rights-and-obligations).  
 
 We may, upon prior, written notice (including by email) to You and without Your consent, assign or otherwise transfer this Agreement to a third party.
 

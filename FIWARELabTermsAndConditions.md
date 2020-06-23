@@ -8,7 +8,7 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 **Terms and Conditions** refer to the FIWARE Lab Terms and Conditions.
 
-**You / Your** refers, as applicable, to you or the entity you represent.
+**You / Your** refers, as applicable, to you or the entity/organisation you represent.
 
 **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. together with the parties providing resources for the various FIWARE Lab nodes and listed in the FIWARE Lab infographic page at http://infographic.lab.fiware.org/.
 

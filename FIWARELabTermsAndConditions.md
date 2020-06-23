@@ -1,10 +1,10 @@
-# Introduction
-
-## Object
+# FIWARE Lab Terms and Conditions
+## Introduction
+### Object
 
 This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly known as FI-Lab) Terms and Conditions that regulate the access to and use of FIWARE Open Innovation Lab (hereinafter, "FIWARE Lab") Services.
 
-## Definitions
+### Definitions
 
 1. **Terms and Conditions** refer to the FIWARE Lab Terms and Conditions.
 
@@ -53,7 +53,7 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 1. **Your Feedback** means all reviews, comments, suggestions, bugs and issues reports, enhancement requests, questions, or other information You provide to Us with respect to FIWARE Lab Services or these Terms and Conditions.
 
-## Binding Agreement
+### Binding Agreement
 
 By clicking the "Submit" button and with thickmark on in the check box about these Terms and Conditions, You state that You have read and accepted these Terms and Conditions or any modification to these Terms and Conditions in accordance with section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement) below.
 
@@ -65,14 +65,14 @@ If You are entering into this Agreement on behalf of a company or other legal en
 
 If You are entering into this Agreement in Your capacity as a natural person, You must be of legal age in accordance with laws in Your country. If You are not legal age or You do not have the capacity to be bound by this Agreement, or if You do not agree with the Terms And Conditions of this Agreement, You must cancel the acceptance process and You cannot use the FIWARE Lab Services nor any other material herein offered.
 
-## Amendment of this Agreement
+### Amendment of this Agreement
 
 We may amend these Terms and Conditions at any time by posting a revised version of these Terms and Conditions in the FIWARE Lab Site and You will be subject to the most recently posted Terms and Conditions, irrespective of the Terms and Conditions in effect when You initially accessed the FIWARE Lab Site. The Account Management Provider shall notify You by email, of any changes to these Terms and Conditions at the FIWARE Lab Site. using the email address indicated by You when creating Your account. You shall be responsible to use and maintain a valid email address.
 
 
-# Rights and Obligations
+## Rights and Obligations
 
-## Registration and User Account
+### Registration and User Account
 
 To access the FIWARE Lab Services, You will be required to create a user account, which requires You to provide, amongst other things, a valid e-mail address at which You will accept communications from Us. Unless explicitly permitted, You may only create one user account per e-mail address and you will have a unique email address on FIWARE Lab. During the process for creation of Your Account, You will be required to choose a User ID and a password to get access to the FIWARE Lab Services.
 
@@ -86,7 +86,7 @@ You may change Your password at any time via the FIWARE Lab Site. You shall chan
 
 You are responsible for all activities that occur under Your account, regardless of whether the activities are undertaken by You, your employees, Your End Users or any third party and We are not responsible for unauthorized access to your account.  You will contact Us immediately if You believe an unauthorized third party may be using Your account or if Your Account information is lost or stolen. You may terminate Your account and this Agreement at any time in accordance with section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination).
 
-## User Policy
+### User Policy
 
 FIWARE Lab will implement user policies at its own discretion in favour of a rational use of the resources. We reserve the right to establish quotas, restrictions of any kind and time limits. These may be implemented by means of user profiles or alternative methods. The initial setting will be as follows but it can change over time to adapt to changing needs of the FIWARE ecosystem and the available capacity.
 
@@ -99,7 +99,7 @@ The main policies are summarized as follow:
 1. Users requesting a Public IP need to provide a verifiable identity information that will be handled by FIWARE infrastructure providers to ensure the possibly to track liable actions within the FIWARE Lab.
 1. Users will not be able to create new "Organizations" anymore beyond the organization linked to their account. FIWARE Lab allows to share access to the cloud environment set up by a given user by adding users to the organization linked to that user. As a consequence, existing organizations will be blocked from accessing cloud resources.
 
-## Your rights and obligations
+### Your rights and obligations
 
 You shall have the right to use Your Content and the FIWARE Lab Services in accordance with these Terms and Conditions including any subsequent versions published in the FIWARE Lab Site.
 
@@ -189,7 +189,7 @@ When You visit the FIWARE Lab Site or send e-mails to Us, You are communicating 
 
 You may submit Your Feedback to Us, so long as it is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and it does not consist of or it does not contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam".
 
-## Our rights and obligations
+### Our rights and obligations
 
 We reserve the right to modify, reduce or limit the FIWARE Lab Services offered at any time.  
 
@@ -215,7 +215,7 @@ We have the right but not the obligation to monitor and edit or remove any activ
 
 We are not obligated to evaluate or provide any comments to You regarding Your Feedback, Your Content or Third Party Content. At Our sole discretion, We may contact You with critiques, updates, feedback or questions regarding them. In no event will any such contact or communication obligate Us to adopt, provide a timeframe for evaluation, or even provide any additional communication regarding Your Feedback, Your Content or Third Party Content.
 
-## Support Level
+### Support Level
 
 You agree that:
 
@@ -227,12 +227,12 @@ You agree that:
 
 You acknowledge that the provision of the FIWARE Lab Services might not be available in every country, either temporarily or permanently.
 
-# Term and Termination
-## Term
+## Term and Termination
+### Term
 
 This Agreement shall enter into force from the Effective Date in accordance with section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) above, and will remain in effect until terminated by You or Us in accordance with section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination), or as varied by any new Terms and Conditions which may be posted on the website as permitted at section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement).
 
-## Termination
+### Termination
 
 You may terminate the Agreement at any time, for any reason, at Your convenience, provided You close your account, following the account closing mechanism provided.
 
@@ -259,7 +259,7 @@ Additionally, we may at any time suspend or terminate immediately the provision 
 
 Notwithstanding the foregoing, upon termination of the Agreement, We may need to keep Your Content and Your Account information so that We can defend possible legal claims related to such termination. For clarification, such information, may be deleted if We believe that it is not relevant to such a claim, or We believe that a claim could no longer arise. After termination, We will not have obligation to continue to store Your Content or to permit You to retrieve the same.
 
-# Temporary Suspension
+## Temporary Suspension
 
 We may suspend Your or any End User's right to access or use the FIWARE Lab Services offered under this Agreement immediately without notice to You if We determine:
 
@@ -273,8 +273,8 @@ If We suspend Your right to access or use any portion or all of the FIWARE Lab S
 
 The Account Manager Provider will make reasonable efforts in order to notify You about the suspension of Your account.
 
-# Intellectual Property and Proprietary Rights
-## Ownership
+## Intellectual Property and Proprietary Rights
+### Ownership
 
 Other than the limited use and access rights expressly set forth in section [User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) point 3 of This Agreement.  We - respectively each the FIWARE Parties owning the rights to the respective FIWARE Lab Service - reserve all right, title and interest (including all intellectual property and proprietary rights) in and to:
 
@@ -291,15 +291,15 @@ Other than the rights and interests expressly set forth in section [User Policy]
 
 During and after the term of the Agreement, with respect to any of the FIWARE Lab Services that You elect to use, You will not assert, nor will You authorize, assist, or encourage any third party to assert, against Us or any of Our customers, end users, vendors, business partners, licensors, sub licensees or transferees, any patent infringement or other intellectual property infringement claim with respect to such Services.
 
-## Third party software provided with FIWARE Lab Services
+### Third party software provided with FIWARE Lab Services
 
 As part of FIWARE Lab Services, You may be allowed to use Third Party Software. Such Third Party Software is neither sold nor distributed to You and You may use it solely as part of FIWARE Lab Services. You may not use or transfer it outside FIWARE Lab Services.
 
 You hereby agree to comply with all terms and conditions set forth in the license terms that such third party may show when access the Third Party Software and otherwise, cooperate with Us to use the Third Party Software only as authorized by such Third Party.
 
 
-# Liability, Disclaimers and Indemnity
-## Liability
+## Liability, Disclaimers and Indemnity
+### Liability
 
 1. SUBJECT TO PARAGRAPHS D AND E OF THIS SECTION, WE WILL NOT EITHER SEVERALLY OR JOINTLY BE LIABLE TO YOU OR THE END USER IN RESPECT OF ANY MATTER ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE PROVISION OF FIWARE Lab SERVICES, IN CONTRACT OR TORT (INCLUDING NEGLIGENCE) OR OTHERWISE FOR ANY LOSS OF PROFIT (WHETHER DIRECT OR INDIRECT), BUSINESS, REVENUE, ANTICIPATED SAVINGS, GOODWILL, BUSINESS INTERRUPTION, FROM WASTED EXPENDITURE OR ANY LOSS OR CORRUPTION OF DATA, OR FOR ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE WHATSOEVER, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -328,7 +328,7 @@ You hereby agree to comply with all terms and conditions set forth in the licens
 
 1. NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER PARTY IN RESPECT OF ANY LIABILITY WHICH CANNOT BE EXCLUDED OR RESTRICTED BY LAW.  ACCORDINGLY, THE LIMITATION OF LIABILITY SHALL NOT APPLY TO DAMAGES RESULTING FROM WILFUL INTENT.  
 
-## Disclaimer
+### Disclaimer
 
 YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE USE OF THE FIWARE Lab SERVICES OR THE CONTENT OF THE FIWARE Lab SITE IS AT YOUR SOLE RISK. FIWARE Lab SERVICES AND THE REST OF THE CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE MAXIMUM EXTENT PERMITTED BY LAW AND SUBJECT TO PARAGRAPH D AND E OF THE SECTION [[#Liability|LIABILITY]] OF THIS AGREEMENT, THE EXPRESS TERMS OF THIS AGREEMENT ARE IN LIEU OF ALL WARRANTIES, CONDITIONS, TERMS, UNDERTAKINGS AND OBLIGATIONS IMPLIED BY STATUTE, COMMON LAW, CUSTOM, TRADE USAGE, COURSE OF DEALING OR OTHERWISE, ALL OF WHICH ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
 
@@ -347,7 +347,7 @@ ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE FIWARE Lab 
 
 YOU ARE SOLELY RESPONSIBLE FOR BACKING-UP ANY CONTENT THAT YOU USE WITH THE FIWARE Lab SERVICES. THE FIWARE PARTNERS ARE NOT RESPONSIBLE FOR ANY LOSS OF DATA.
 
-## Indemnity
+### Indemnity
 
 YOU AGREE TO HOLD HARMLESS AND INDEMNIFY US, AND OUR SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, AND EMPLOYEES, ADVERTISERS OR PARTNERS, FROM AND AGAINST:
 
@@ -358,11 +358,11 @@ YOU AGREE TO HOLD HARMLESS AND INDEMNIFY US, AND OUR SUBSIDIARIES, AFFILIATES, O
 * ANY AND ALL DAMAGE TO ANY EQUIPMENT BELONGING TO US CAUSED BY YOUR BREACH OR YOUR END'S USERS BREACH OF THIS AGREEMENT; INCLUDING ANY LIABILITY OR EXPENSE ARISING FROM ALL CLAIMS, LOSSES, DAMAGES (ACTUAL AND CONSEQUENTIAL), SUITS, JUDGMENTS, LITIGATION COSTS AND ATTORNEYS' FEES, OF EVERY KIND AND NATURE. IN SUCH A CASE, THE FIWARE PARTNERS WILL PROVIDE THE CLIENT WITH WRITTEN NOTICE OF SUCH CLAIM, SUIT OR ACTION.
 
 
-# Account Personal Data Protection
+## Account Personal Data Protection
 
 Personal Data for these terms and conditions are handled according to Our [Personal Data Protection_Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWAREPersonalDataProtectionPolicy-edits/PersonalDataProtectionPolicy.md#personal-data-protection-policy). Please refer to it for more information.
 
-# Assignment, Subcontracting and not Reselling
+## Assignment, Subcontracting and not Reselling
 
 You may not assign this Agreement or otherwise transfer any of its rights or obligations, including any credentials, the licenses or any other right, without our prior written consent, except where explicitly provided in section [Your rights and obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#your-rights-and-obligations).  
 
@@ -370,55 +370,54 @@ We may, upon prior, written notice (including by email) to You and without Your 
 
 We may at any time subcontract part or all the FIWARE Lab Services or any of its obligations hereunder.
 
-# Confidentiality
+## Confidentiality
 
 Without derogating the provisions of section [Account Personal Data Protection](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#account-personal-data-protection), all the information obtained or received as a result of entering into or performing the FIWARE Lab Services, is non-confidential. All Parties to this Agreement agree not to disclose any information to the other Party which is considered by the disclosing Party to be confidential. Each Party will be free to use and disclose any information provided by the other Party pursuant to This Agreement for any purpose, subject to valid patent rights and copyrights.
 
-# Legislation and Applicable Jurisdiction
+## Legislation and Applicable Jurisdiction
 
 All the conditions of This Agreement and any issues or disputes of whatever nature arising out of or in any way relating to it or its formation (whether such disputes are contractual or non-contractual in nature, such as claims in tort, for breach of statute or regulation, or otherwise) shall be governed by the German laws. All disputes or differences directly arising in connection with this Agreement including any dispute in which a Party alleges that another Party has abused its power, which cannot be settled amicably, as declared by one Party and as established in the previous paragraph, shall be subject to the jurisdiction of the competent court in Brussels. Such court shall have jurisdiction in the event of a counterclaim made by the defendant in the legal action.
 
 You and Us agree that any dispute, claim or controversy arising out or in connection with the use of FIWARE Lab Services, shall be submitted within two (2) years from the occurrence of the subject matter of the dispute, claim or controversy. Beyond this term, the dispute, claim or controversy shall be considered as time barred.
 
-
-# Miscellaneous
-## Notices
+## Miscellaneous
+### Notices
 
 **To You** - Except as otherwise set forth herein, notices made by Us to You under this Agreement that affect You (e.g., updates services offer and description etc.) will generally be posted on the FIWARE Lab Site. Notices made by Us under this Agreement for You specifically (e.g., notices of breach and/or suspension) will be provided to You via (a) the email address provided to Us during creation of Your account for the FIWARE Lab Services or in any updated email address You provide to Us in accordance with standard account information update procedures We may provide from time to time and/or (b) through any other mean We consider appropriate. It is Your responsibility to keep Your email address current and You will be deemed to have received any email sent to any such email address, upon Our sending of the email, whether or not You actually receive the email.
 
 **To Us** - For notices made by You to Us under This Agreement and for questions regarding this Agreement or the FIWARE Lab Services, You may contact Us through the FIWARE Lab Site at the Contact Us section.  
 
-## Relationship
+### Relationship
 
 Nothing in this Agreement is intended to or does create any type of joint venture, creditor-debtor, escrow, partnership or any employer/employee or fiduciary or franchise, distributor, dealer or agency relationship between You/Your End Users and Us.
 
-## Entire Agreement
+### Entire Agreement
 
 This Agreement incorporates by reference all policies, specific particular provisions and guidelines posted on the FIWARE Lab Site, and constitutes the entire agreement between You and Us and supersedes all prior negotiations, representations, proposals, understandings and agreements whether written or oral relating to the subject matter of this Agreement.
 
 Each of the Parties acknowledges and agrees that in entering into This Agreement, it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Agreement or not) other than as expressly set out in this Agreement. Nothing in this paragraph shall, however, operate to limit or exclude any liability for fraudulent misrepresentation.
 
-## Force Majeure
+### Force Majeure
 
 Neither Party shall be deemed in default or liable to the other Party for any matter whatsoever for any delays in performance or from failure to perform or comply with the terms of this Agreement due to any cause beyond that Party's reasonable control including, without limitation, acts of Government or other competent regulatory authority, telecommunications network operators, war or national emergency, riots, civil commotion, fire, explosion, flood, lightning, extremely severe weather, epidemic, lock-outs, strikes and other industrial disputes (in each case, whether or not relating to that party's workforce).
 
-## Severability
+### Severability
 
 If any part of this Agreement is held by a court of competent jurisdiction to be invalid, illegal or unenforceable, the remaining parts of This Agreement will remain in full force and effect. In such circumstances, the Parties shall negotiate in good faith in order to agree the terms of a mutually satisfactory provision, achieving as nearly as possible the same commercial effect, to be substituted for the provision which is found to be invalid, illegal or unenforceable.
 
-## Waivers
+### Waivers
 
 The failure or delay by either Party to This Agreement to exercise or enforce any right, power or remedy under This Agreement shall not be deemed to operate as a waiver of any such right, power or remedy; nor shall any single or partial exercise by any party operate so as to bar the exercise or enforcement thereof or of any right, power or remedy on any later occasion.
 
-## Successors and Assigns
+### Successors and Assigns
 
 This Agreement will be binding upon, and inure to the benefit of the Parties and their respective successors and assigns.
 
-## Language
+### Language
 
 All communications and notices to be made or given pursuant to This Agreement shall be in the English language.
 
-## Previous version
+### Previous version
 
 You can see the historical (and now deprecated) versions of this document in the following pages:
 

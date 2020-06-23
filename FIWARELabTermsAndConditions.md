@@ -360,7 +360,7 @@ YOU AGREE TO HOLD HARMLESS AND INDEMNIFY US, AND OUR SUBSIDIARIES, AFFILIATES, O
 
 # Account Personal Data Protection
 
-Personal Data for these terms and conditions are handled according to our [[FIWARE_Privacy_Policy|FIWARE Privacy Policy]], please refer to them for more information.
+Personal Data for these terms and conditions are handled according to Our [Personal Data Protection_Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWAREPersonalDataProtectionPolicy-edits/PersonalDataProtectionPolicy.md#personal-data-protection-policy). Please refer to it for more information.
 
 # Assignment, Subcontracting and not Reselling
 

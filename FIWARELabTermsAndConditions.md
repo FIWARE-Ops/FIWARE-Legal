@@ -230,7 +230,7 @@ You acknowledge that the provision of the FIWARE Lab Services might not be avail
 # Term and Termination
 ## Term
 
-This Agreement shall enter into force from the Effective Date in accordance with section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) above, and will remain in effect until terminated by You or Us in accordance with section [[#Termination|Termination]], or as varied by any new Terms and Conditions which may be posted on the website as permitted at section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement).
+This Agreement shall enter into force from the Effective Date in accordance with section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) above, and will remain in effect until terminated by You or Us in accordance with section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination), or as varied by any new Terms and Conditions which may be posted on the website as permitted at section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement).
 
 ## Termination
 
@@ -269,7 +269,7 @@ We may suspend Your or any End User's right to access or use the FIWARE Lab Serv
 
 1. You have ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition of Your assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding.  
 
-If We suspend Your right to access or use any portion or all of the FIWARE Lab Services, We reserve the right to erase or not any of Your Content as a result of Your suspension, Our right to suspend Your or any Your End User's right to access or use the Service Offerings is in addition to our right to terminate this Agreement pursuant to section [[#Termination|Termination]].
+If We suspend Your right to access or use any portion or all of the FIWARE Lab Services, We reserve the right to erase or not any of Your Content as a result of Your suspension, Our right to suspend Your or any Your End User's right to access or use the Service Offerings is in addition to our right to terminate this Agreement pursuant to section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination).
 
 The Account Manager Provider will make reasonable efforts in order to notify You about the suspension of Your account.
 

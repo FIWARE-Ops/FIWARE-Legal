@@ -53,7 +53,7 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 1. **Your Feedback** means all reviews, comments, suggestions, bugs and issues reports, enhancement requests, questions, or other information You provide to Us with respect to FIWARE Lab Services or these Terms and Conditions.
 
-# Agreement
+## Binding Agreement
 
 By clicking the "I ACCEPT" button or check box presented with these Terms and Conditions, You state that You have read and accepted these Terms and Conditions or any modification to these Terms and Conditions in accordance with section [[#Amendment of this Agreement|Amendment of this Agreement]] below.
 

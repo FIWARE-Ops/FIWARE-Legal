@@ -55,7 +55,7 @@ This document comprises the FIWARE Open Innovation Lab (FIWARE Lab, formerly kno
 
 ## Binding Agreement
 
-By clicking the "Submit" button having thickmarked the check box about these Terms and Conditions, You state that You have read and accepted these Terms and Conditions or any modification to these Terms and Conditions in accordance with section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement) below.
+By clicking the "Submit" button and with thickmark on in the check box about these Terms and Conditions, You state that You have read and accepted these Terms and Conditions or any modification to these Terms and Conditions in accordance with section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement) below.
 
 Acceptance of these Terms and Conditions constitute a binding agreement between You and Us.
 

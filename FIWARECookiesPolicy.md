@@ -1,4 +1,5 @@
 # FIWARE Cookies Policy
+
 ## Introduction
 In accordance with the applicable law regarding the use of
 cookies in relation to the provision of electronic communication
@@ -62,8 +63,8 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 | _ga | .spotlightr.com | 2 years | Google Analytics to count and track pageviews. | Medium |
 | _ga | .hotjar.com | 2 years | Google Analytics to count and track pageviews. | Medium |
 | _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gaexp | .spotlightr.com | 3 months | | |
-| _gat | .fiware.org | 1 hour | 
+| _gaexp | .spotlightr.com | 3 months | Google Analytics. | Medium |
+| _gat | .fiware.org | 1 hour | Google Analytics. | Medium |
 | _gat_gtag_UA_*_1 | .fiware.org |  1 hour | Google Tag Manager to store and track conversions. | Medium |
 | _gid | .spotlightr.com | 1 day | Google Analytics to count and track pageviews. | Medium |
 | _gid | .hotjar.com | 1 day | Google Analytics to count and track pageviews. | Medium |
@@ -73,16 +74,17 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 | _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Low |
 | _hjid | .hotjar.com | 1 year | Hotjar to store a unique user ID. | Medium |
 | _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| ajs_anonymous_id | .hotjar.com | 1 year | | Medium |
-| datr | .facebook.com | 2 years | | Medium |
+| ajs_anonymous_id | .hotjar.com | 1 year | Atlasian Jira Servicedesk to store last visit. | Medium |
+| datr | .facebook.com | 2 years | Facebook to provide fraud prevention. | Medium |
 | etBloomCookie_optin_* | www.fiware.org | 1 day | This cookies helps us manage the sign-up to our mailing lists. | Medium |
 | et_bloom_optin_optin_4_*_imp | www.fiware.org | 1 year | Captures the Name and Email Id for Newsletters. | Medium |
-| fr | .facebook.com | 3 months | | Medium |
-| intercom-id-* | .spotlightr.com | 9 months | | Medium |
-| intercom-session-* | .spotlightr.com | 7 days | | Medium |
-| sb | .facebook.com | 2 years | | Medium
+| fr | .facebook.com | 3 months | Facebook to Enable ad delivery or retargeting. | Medium |
+| ginger-cookie | www.fiware.org | 1 year | | Medium |
+| intercom-id-* | .spotlightr.com | 9 months | Intercom Messenger. | Medium |
+| intercom-session-* | .spotlightr.com | 7 days | Intercom Messenger. | Medium |
+| sb | .facebook.com | 2 years | Facebook to store browser details. | Medium
 | viewerId | www.fiware.org | 3 months | The viewerID cookie allows the site to retain your product viewing history across sessions. | Medium |
-| vooplayerVideo* | www.fiware.org | Session | | |
+| vooplayerVideo* | www.fiware.org | Session | | Medium |
 
 
 
@@ -93,7 +95,7 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 |--------|--------|------------|---------|:------------------: |
 | _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across websites. | Medium |
 | _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gat | .fiware.org | 1 hour | Gooble Analytics to filter requests from bots.| Medium |
+| _gat | .fiware.org | 1 hour | Google Analytics. | Medium |
 | _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
 | _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
 | _hjTLDTest | .fiware.org | Session | Hotjat to get tempoeal information about cookies path. | Medium |
@@ -102,6 +104,7 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 | csrftoken | account.lab.fiware.org | 1 year | Django CSRF protection token. | Medium |
 | JSESSIONID | jira.fiware.org | Session | Java J2EE or WebLogic Server session cookie. | Medium |
 | login_region | cloud.lab.fiware.org | 1 year | URL of the Identity Management of this Cloud Lab Region. | Low |
+
 
 ## FIWARE Q&A (ask.fiware.org) Cookies.   
 
@@ -132,41 +135,9 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 | <name of the mailing list> + <user> | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
 
 
-## Cookies of FIWARE Academy.
+## Cookies Intrusiveness Level.  
 
-
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| MoodleSession | edu.fiware.org | Session | To keep the reference of the current session | 1 |
-| \_ga | .fiware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| \_gat | .fiware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| popup\_cookie | edu.fiware.org | 1 hour | This cookie is used to show a popup/welcome the first time an user visits this website | 2 |
-
-
-## FIWARE Catalogue Cookies
-
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| \_\_utma | google-analytics.com ga.js | 2 years |This cookie keeps a record of the number of times a user has visited a site, and when the first and last visits were. | 2 |
-| \_\_utmc | google-analytics.com ga.js | Expires with the session | This cookie helps to calculate how long a user's visit lasts, storing the time the user exits the page. | 2 |
-| \_\_utmz | google-analytics.com ga.js | Expires with the session | This cookie keeps track of where the visitor comes from, which search engine was used, which link he/she clicked on, what key words were used and from where in the world the page was accessed. | 2 |
-| has\_js | catalogue.fiware.org | Expires with the session | This cookie indicates that the Drupal instance contains custom javascript files | 1 |
-| Drupal.tableDrag.showWeight | catalogue.fiware.org | 1 year | This cookie stores user interface preferences | 1 |
-| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| \_gat | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| cookie-agreed | catalogue.fiware.org | 3 months | This cookie indicates that you have already read the cookie policies | 1 |
-
-
-## FIWARE backlog Cookies.
-
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| \_ga | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-|\_\_cfduid | .highcharts.com | 1 year| This cookie overrides any security restrictions based on the IP address the visitor is coming from. It does not contain any user identification information| 2 |
-
-
-## Cookie Level.  
 The cookies detailed above are graded on an "intrusiveness level " on a scale of 1 to 3, in which:  
-* **Level 1**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
-* **Level 2**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their websites (e.g. Social Plugins from Facebook or Twitter).
-* **Level 3**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through websites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.
+* **Low level**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
+* **Medium level**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their websites (e.g. Social Plugins from Facebook or Twitter).
+* **High level**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through websites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.

@@ -25,23 +25,28 @@ However, users can set up their browsers to accept or reject cookies, or select 
 In the following are listed the procedures to be executed for the most popular browsers.
 
 *   **Google Chrome**   
+
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies   
 More information: <https://support.google.com/chrome/answer/95647?hl=en>.
 
 *   **Microsoft Internet Explorer**   
+
 (in the Tools Menu): Internet \> Privacy \> Advanced   
 More information: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>.  
 
 *   **Firefox**   
+
 Options \> Privacy \> Cookies   
 More information: <https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop>.    
 
 *   **Safari**, iPad y iPhone   
+
 Preferences \> Privacy   
 More information: <http://www.apple.com/privacy/use-of-cookies>
 
 *   **Opera**
+
 Settings \> Preferences \> Advanced \> Cookies   
 More information: <http://help.opera.com/Linux/10.60/en/cookies.html>
 

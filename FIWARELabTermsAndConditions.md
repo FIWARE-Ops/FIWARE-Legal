@@ -27,13 +27,13 @@ described in the [FIWARE Catalogue](https://github.com/FIWARE/catalogue).
 
 1.  **FIWARE Lab Services** refer to services:
 
-   1.  made available at the **FIWARE Lab Site** (lab.fiware.org), including hosting 
-   services provided by the **FIWARE Lab Cloud** (<https://cloud.lab.fiware.org>); or
-   1.  provided by instances of FIWARE Generic Enabler (GE) products that have been 
-   deployed by any of Us on the FIWARE Lab Cloud and offered to You or have been 
-   deployed by You on the FIWARE Lab Cloud using the tools and services that the 
-   FIWARE Lab Cloud provides or using the installation and administration guides 
-   provided to You for that purpose. 
+    1.  made available at the **FIWARE Lab Site** (lab.fiware.org), including hosting 
+    services provided by the **FIWARE Lab Cloud** (<https://cloud.lab.fiware.org>); or
+    1.  provided by instances of FIWARE Generic Enabler (GE) products that have been 
+    deployed by any of Us on the FIWARE Lab Cloud and offered to You or have been 
+    deployed by You on the FIWARE Lab Cloud using the tools and services that the 
+    FIWARE Lab Cloud provides or using the installation and administration guides 
+    provided to You for that purpose. 
 
 1.  **Account Management Provider** refers to the FIWARE partner dealing with account 
 management functions for the FIWARE Lab site.
@@ -205,9 +205,9 @@ trial period, the account assigned to a Trial user is disabled and the associate
 resources released - any backup is up to the user. FIWARE Lab is not responsible 
 for the loss of any data. Reminders are sent one week before the expiration day 
 as well as the day before. The total resources made available to Trial Users 
-are documented at the [[Reources_Available_to_Trial_users|Reources Available to Trial users]] page. 
-However, the amount of resources assigned to Trial Users may vary depending on 
-availability of new nodes and changes in internal policies.
+are documented at the [Reources Available to Trial users](#Reources Available to Trial users)
+page. However, the amount of resources assigned to Trial Users may vary depending 
+on availability of new nodes and changes in internal policies.
 
 1.  Users willing to become Community users shall apply through the specific process. 
 Such process is activated by clicking on the ''Request Community Account'' button 
@@ -497,11 +497,10 @@ available in every country, either temporarily or permanently.
 ### Term
 
 This Agreement shall enter into force from the Effective Date in accordance with 
-section [Definitions](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#definitions) 
-above, and will remain in effect until terminated by You or Us in accordance with 
-section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination), 
+section [Definitions](#Definitions) above, and will remain in effect until 
+terminated by You or Us in accordance with section [Termination](#Termination), 
 or as varied by any new Terms and Conditions which may be posted on the website as 
-permitted at section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement).
+permitted at section [Amendment of this Agreement](#Amendment of this Agreement).
 
 ### Termination
 
@@ -572,7 +571,7 @@ If We suspend Your right to access or use any portion or all of the FIWARE Lab
 Services, We reserve the right to erase or not any of Your Content as a result 
 of Your suspension, Our right to suspend Your or any Your End User's right to 
 access or use the Service Offerings is in addition to our right to terminate 
-this Agreement pursuant to section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination).
+this Agreement pursuant to section [Termination](#Termination).
 
 The Account Manager Provider will make reasonable efforts in order to notify 
 You about the suspension of Your account.
@@ -581,11 +580,10 @@ You about the suspension of Your account.
 ### Ownership
 
 Other than the limited use and access rights expressly set forth in section 
-[User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
-point 3 of This Agreement.  We - respectively each the FIWARE Parties owning 
-the rights to the respective FIWARE Lab Service - reserve all right, title 
-and interest (including all intellectual property and proprietary rights) 
-in and to:
+[User Policy](#User Policy) point 3 of This Agreement.  We - respectively 
+each the FIWARE Parties owning the rights to the respective FIWARE Lab 
+Service - reserve all right, title and interest (including all intellectual 
+property and proprietary rights) in and to:
 
 *   the FIWARE Lab Services
 *   FIWARE Lab Content and FIWARE Lab Information owned by some of Us and made 
@@ -601,22 +599,21 @@ You do not, by virtue of this Agreement or otherwise, acquire any ownership
 interest or rights in the FIWARE Lab Services, the FIWARE Lab Content, the 
 FIWARE Lab Information, Our Systems, the Marks, or other technology and software 
 (including third party technology and software), except for the limited use 
-and access rights described in section [User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
+and access rights described in section [User Policy](#User Policy) 
 point 3 of This Agreement.
 
 Other than the rights and interests expressly set forth in section 
-[User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
-point 3 of This Agreement, and excluding the FIWARE Lab Content and works derived 
-from the FIWARE Lab Content, You reserve all right, title and interest (including 
-all intellectual property and proprietary rights) in and to: (i) the Content or 
-any other content and data You may send to Us or use as part of Your use of any 
-FIWARE Lab Services which is designed by Us to permit You to send content or data 
-to use; and (ii) any other software or application owned by or licensed to You 
-and that You may use when being provided with the FIWARE Lab Services different 
-from the Third Party Software. With respect to categories (i) and (ii), You shall 
-provide Us with all redistribution rights necessary for Us to redistribute the 
-items in these categories in accordance with the normal operation of the FIWARE 
-Lab Services. 
+[User Policy](#User Policy) point 3 of This Agreement, and excluding the FIWARE 
+Lab Content and works derived from the FIWARE Lab Content, You reserve all right, 
+title and interest (including all intellectual property and proprietary rights) 
+in and to: (i) the Content or any other content and data You may send to Us or 
+use as part of Your use of any FIWARE Lab Services which is designed by Us to 
+permit You to send content or data to use; and (ii) any other software or 
+application owned by or licensed to You and that You may use when being provided 
+with the FIWARE Lab Services different from the Third Party Software. With 
+respect to categories (i) and (ii), You shall provide Us with all redistribution 
+rights necessary for Us to redistribute the items in these categories in accordance 
+with the normal operation of the FIWARE Lab Services. 
 
 During and after the term of the Agreement, with respect to any of the FIWARE Lab 
 Services that You elect to use, You will not assert, nor will You authorize, assist, 
@@ -653,24 +650,24 @@ BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 1.  YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE WILL NOT EITHER SEVERALLY OR JOINTLY, 
 BE LIABLE TO YOU, TO THE END USERS OR TO ANY THIRD PARTY, FOR ANY DAMAGES OR LOSSES 
 RESULTING FROM THE FOLLOWING:
-   1.  THE USE OF OR THE INABILITY TO USE THE FIWARE Lab SERVICES
+    1.  THE USE OF OR THE INABILITY TO USE THE FIWARE Lab SERVICES
 
-   1.  THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND FIWARE Lab SERVICES
+    1.  THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND FIWARE Lab SERVICES
 
-   1.  UNAUTHORIZED ACCESS TO OR ALTERATION OF, OR THE DELETION, DESTRUCTIONS, DAMAGE, 
-   LOSS OR FAILURE TO STORE ANY OF YOUR TRANSMISSIONS OR CONTENT OR OTHER DATA
+    1.  UNAUTHORIZED ACCESS TO OR ALTERATION OF, OR THE DELETION, DESTRUCTIONS, DAMAGE, 
+    LOSS OR FAILURE TO STORE ANY OF YOUR TRANSMISSIONS OR CONTENT OR OTHER DATA
 
-   1.  YOUR CONTENT, INCLUDING ANY DAMAGES OR LOSSES RESULTING FROM THE USE OF THE 
-   CONTENT OR THE USE OF ANY PERSONAL DATA IN YOUR CONTENT
+    1.  YOUR CONTENT, INCLUDING ANY DAMAGES OR LOSSES RESULTING FROM THE USE OF THE 
+    CONTENT OR THE USE OF ANY PERSONAL DATA IN YOUR CONTENT
 
    1.  STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON FIWARE Lab SERVICES
 
-   1.  USAGE BY YOU OF THE FIWARE Lab SERVICES TOGETHER WITH ANY OTHER SERVICES, 
-   SOFTWARE, APPLICATION OR TOOL NOT OFERRED BY US OR USE OF THE FIWARE Lab SERVICES 
-   IN A WAY NOT EXPRESSLY PERMITTED UNDER THIS AGREEMENT, OR
+    1.  USAGE BY YOU OF THE FIWARE Lab SERVICES TOGETHER WITH ANY OTHER SERVICES, 
+    SOFTWARE, APPLICATION OR TOOL NOT OFERRED BY US OR USE OF THE FIWARE Lab SERVICES 
+    IN A WAY NOT EXPRESSLY PERMITTED UNDER THIS AGREEMENT, OR
 
-   1.  LOSS OF, OR DAMAGE TO, YOUR RECORDS OR DATA, OR ANY DAMAGES CLAIMED BY YOU 
-   BASED ON A THIRD PARTY CLAIM.
+    1.  LOSS OF, OR DAMAGE TO, YOUR RECORDS OR DATA, OR ANY DAMAGES CLAIMED BY YOU 
+    BASED ON A THIRD PARTY CLAIM.
   
 
 1.  SUBJECT TO PARAGRAPHS A, B, D AND E OF THIS SECTION, OUR AGGREGATE LIABILITY 
@@ -681,8 +678,8 @@ OF ALL CLAIMS TO AN AMOUNT EQUAL TO 50 €.
 
 1.  NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF YOU FOR:
 
-   1.  DEATH OR PERSONAL INJURY RESULTING FROM YOUR NEGLIGENCE; OR
-   1.  FRAUD OR FRAUDULENT MISREPRESENTATION.
+    1.  DEATH OR PERSONAL INJURY RESULTING FROM YOUR NEGLIGENCE; OR
+    1.  FRAUD OR FRAUDULENT MISREPRESENTATION.
 
 1.  NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER 
 PARTY IN RESPECT OF ANY LIABILITY WHICH CANNOT BE EXCLUDED OR RESTRICTED BY LAW.  
@@ -760,7 +757,7 @@ OF SUCH CLAIM, SUIT OR ACTION.
 ## Account Personal Data Protection
 
 Personal Data for these terms and conditions are handled according to Our 
-[Personal Data Protection_Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWAREPersonalDataProtectionPolicy-edits/PersonalDataProtectionPolicy.md#personal-data-protection-policy). 
+[Personal Data Protection_Policy](PersonalDataProtectionPolicy.md). 
 Please refer to it for more information.
 
 ## Assignment, Subcontracting and not Reselling
@@ -768,7 +765,7 @@ Please refer to it for more information.
 You may not assign this Agreement or otherwise transfer any of its rights or 
 obligations, including any credentials, the licenses or any other right, without 
 our prior written consent, except where explicitly provided in section 
-[Your rights and obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#your-rights-and-obligations).  
+[Your rights and obligations](#your-rights-and-obligations).  
 
 We may, upon prior, written notice (including by email) to You and without 
 Your consent, assign or otherwise transfer this Agreement to a third party.
@@ -779,7 +776,7 @@ obligations hereunder.
 ## Confidentiality
 
 Without derogating the provisions of section 
-[Account Personal Data Protection](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#account-personal-data-protection), 
+[Account Personal Data Protection](#Account Personal Data Protection), 
 all the information obtained or received as a result of entering into or 
 performing the FIWARE Lab Services, is non-confidential. All Parties to this 
 Agreement agree not to disclose any information to the other Party which is 

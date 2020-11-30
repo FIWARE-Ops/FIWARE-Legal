@@ -23,107 +23,113 @@ information technology services, because, among others:
 However, users can set up their browsers to accept or reject cookies, or select those allowed and those excluded.
 In the following are listed the procedures to be executed for the most popular browsers.
 
-**Google Chrome**   
+* **Google Chrome**   
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies   
 More information: https://support.google.com/chrome/answer/95647?hl=en.  
 
-**Microsoft Internet Explorer**   
+* **Microsoft Internet Explorer**   
 (in the Tools Menu): Internet \> Privacy \> Advanced   
 More information: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies.  
 
-**Firefox**   
+* **Firefox**   
 Options \> Privacy \> Cookies   
 More information: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop.    
 
-**Safari**, iPad y iPhone   
+* **Safari**, iPad y iPhone   
 Preferences \> Privacy   
 More information: http://www.apple.com/privacy/use-of-cookies/
 
-**Opera**   
+* **Opera**
 Settings \> Preferences \> Advanced \> Cookies   
 More information: http://help.opera.com/Linux/10.60/en/cookies.html
 
 ## Analytical cookies
 
 Analytical cookies make it possible to track and analyse the behaviour of the users
-of the websites with which they are associated.
-
-## FIWARE website (fiware.org) Cookies.  
-
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| NID | google.com | 6 months | Google uses this cookie, like the PREF, to help customise ads on Google properties, like Google Search. | 2 | 
-| PHPSESSID | fi-ware.local | Expires with the session | Server cookie to keep server session | 1 |
-| \_ga | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| \_gat | fi-ware.local | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| complianceCookie | fi-ware.local | 1 week | This cookie is used for showing cookies terms advice | 1 |
-| PREF | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
-| VISITOR\_INFO1\_LIVE | .youtube.com | 8 months | YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
-| YSC | .youtube.com | Expires with the session | YouTube collects user data through videos. embedded in websites, which is aggregated with profile data from other embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites. | 2 |
-| CMDD | .casalemedia.com | 1 day | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| CMID | .casalemedia.com | 1 year | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| CMPS | .casalemedia.com | 3 months | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| CMRUM3 | .casalemedia.com | 1 year | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| CMSC | .casalemedia.com | Expires with the session | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| CMST | .casalemedia.com | 1 day | Used for Advertising monitoring and retargeting. More info including opt-out at http://www.casalemedia.com/ | 3 |
-| \_ga | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchbidswitch | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchbluekai | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchcasale | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchdemdex | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchfbx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchgoogle | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchopenx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchpubmatic | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchspotx | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| matchyahoo | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| wfivefivec | Dataxu.com via .w55c.net | 1 month | Used for Web Traffic statistics and ad interaction monitoring. More info including opt-out at http://www.dataxu.com/about-us/privacy/data-collection-platform/ | 3 |
-| EQUser | .eqads.com | 3 months | Collecting information at aggregate level for site scoring for advertising companies. More info including opt-out at http://www.eqworks.com/about/privacy-policy/ | 3 |
+of the websites with which they are associated. If you accept cookies on our sites, 
+We use Google Analytics on our sites for anonymous reporting of site usage. If you 
+would like to opt-out of Google Analytics monitoring your behaviour on our sites 
+please use this link (https://tools.google.com/dlpage/gaoptout).
 
 
+## FIWARE website (fiware.org) Cookies 
 
-## FIWARE Lab (lab.fiware.org) Cookies.   
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| PHPSESSID | www.fiware.org | Session | PHP session cookie associated with embedded content from this domain. | Low |
+| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across websites. | Medium |
+| _ga | .spotlightr.com | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _ga | .hotjar.com | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _gaexp | .spotlightr.com | 3 months | | |
+| _gat | .fiware.org | 1 hour | 
+| _gat_gtag_UA_*_1 | .fiware.org |  1 hour | Google Tag Manager to store and track conversions. | Medium |
+| _gid | .spotlightr.com | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _gid | .hotjar.com | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _hjFirstSeen | | 30 minutes | Hotjar cookie unclassified | Medium |
+| _hjTLDTest | .hotjar.com | Session | Hotjat to get temporal information about cookies path. | Low |
+| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Low |
+| _hjid | .hotjar.com | 1 year | Hotjar to store a unique user ID. | Medium |
+| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
+| ajs_anonymous_id | .hotjar.com | 1 year | | Medium |
+| datr | .facebook.com | 2 years | | Medium |
+| etBloomCookie_optin_* | www.fiware.org | 1 day | This cookies helps us manage the sign-up to our mailing lists. | Medium |
+| et_bloom_optin_optin_4_*_imp | www.fiware.org | 1 year | Captures the Name and Email Id for Newsletters. | Medium |
+| fr | .facebook.com | 3 months | | Medium |
+| intercom-id-* | .spotlightr.com | 9 months | | Medium |
+| intercom-session-* | .spotlightr.com | 7 days | | Medium |
+| sb | .facebook.com | 2 years | | Medium
+| viewerId | www.fiware.org | 3 months | The viewerID cookie allows the site to retain your product viewing history across sessions. | Medium |
+| vooplayerVideo* | www.fiware.org | Session | | |
 
 
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| \_\_utma | google-analytics.com ga.js | 2 years | This cookie keeps a record of the number of times a user has visited a site, and when the first and last visits were. | 2 |
-| \_\_utmc | google-analytics.com ga.js | Expires with the session | This cookie helps to calculate how long a user's visit lasts, storing the time the user exits the page. | 2 |
-| \_\_utmz | google-analytics.com ga.js | Expires with the session | This cookie keeps track of where the visitor comes from, which search engine was used, which link he/she clicked on, what keywords were used and from where in the world the page was accessed. | 2 |
-| JSESSIONID | cloud.lab.fi-ware.org PaaS Manager | Expires with the session | This cookie is generated by Servlet container like Tomcat or Jetty and used for session management in J2EE web application for http protocol. | 1 |
-| JSESSIONID | cloud.lab.fi-ware.org SDC | Expires with the session | This cookie is generated by Servlet container like Tomcat or Jetty and used for session management in J2EE web application for http protocol. | 1 |
-| connect.sid | cloud.lab.fi-ware.org | Expires with the session | This cookie keeps the session of an authenticated user in the Cloud Portal | 1 |
-| expires\_in | cloud.lab.fi-ware.org | Expires with the session | This cookie saves information about the validation time of an authenticated user token | 1 |
-| oauth\_token | cloud.lab.fi-ware.org | Expires with the session | This cookie saves information about the authentication token that a user uses to connect | 1 |
-| \_fi-ware-idm\_session | account.lab.fi-ware.org | Expires with the session | This cookie keeps the session of an authenticated user in the Account Portal | 1 |
-| wstoreoil\_sid | store.lab.fi-ware.org | 2 weeks | This cookie keeps the session of an authenticated user in the Store portal | 1 |
-| oil\_sid | mashup.lab.fi-ware.org | 2 weeks | This cookie keeps the session of an authenticated user in the Mashup portal | 1 |
-| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals | 2 |
-| auth\_tkt | data.lab.fi-ware.org | Expires with the session | This cookie saves information about the authentication token that a user uses to connect | 1 |
-| auth\_tkt | .data.lab.fi-ware.org | Expires with the session | This cookie saves information about the authentication token that a user uses to connect | 1 |
-| ckan | data.lab.fi-ware.org | Expires with the session | This cookie keeps the session of an authenticated user in the data portal | 1 |
-| PREF | help.lab.fi-ware.org youtube/google | 1 year | YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across abroad range of their own and other websites. | 2 |
-| NID | help.lab.fi-ware.org \<br/\> youtube/google | 6 months | Google uses this cookie, like the PREF, to help customise ads on Google properties, like Google Search. | 2 |
 
 
-## FIWARE Q\&A (ask.fiware.org) Cookies.   
+## FIWARE Lab portals (*.lab.fiware.org) Cookies.   
 
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-| \_csrf | ask.fiware.org | 1 year | This cookie is used to avoid "Cross-site request forgery" attacks. | 2 |
-| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals. | 2 |
-| askbot\_visitor | ask.fiware.org | Expires with the session | This cookie is used to show a popup/welcome the first time an user visits this website. | 2 |
-| sessionid | ask.fiware.org | 2 weeks | This cookie is used as session identifier. | 1 |
-| popup\_cookie | ask.fiware.org | 1 hour | This cookie is used to show/hide an informative cookie popup | 1 |
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across websites. | Medium |
+| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _gat | .fiware.org | 1 hour | Gooble Analytics to filter requests from bots.| Medium |
+| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
+| _hjTLDTest | .fiware.org | Session | Hotjat to get tempoeal information about cookies path. | Medium |
+| AJS.conglomerate.cookie | jira.fiware.org | 1 day | Tracks which general tabs were last used (e.g. in Confluence's plugin manager) or expansion elements were last opened or closed. | Medium |
+| atlassian.xsrf.token | jira.fiware.org | Session | Helps prevent XSRF attacks. Ensures that during a user's session, browser requests sent to a product are originated from that product instance. | Medium |
+| csrftoken | account.lab.fiware.org | 1 year | Django CSRF protection token. | Medium |
+| JSESSIONID | jira.fiware.org | Session | Java J2EE or WebLogic Server session cookie. | Medium |
+| login_region | cloud.lab.fiware.org | 1 year | URL of the Identity Management of this Cloud Lab Region. | Low |
+
+## FIWARE Q&A (ask.fiware.org) Cookies.   
+
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| __utma | .ask.fiware.org | 2 years | Google Analytics to calculate days and time to pruchase. | Medium |
+| __utmb | .ask.fiware.org | 30 minutes | Google Analytics to store time of visit. | Medium |
+| __utmc | .ask.fiware.org | Session | Google Analytics to store time of visit. | Medium |
+| __utmt | .ask.fiware.org | 10 minutes | Google Analytics to store number of service requests. | Medium |
+| __utmz | .ask.fiware.org | 6 months | Google Analytics to store used keyword and search engine. | Medium |
+| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across websites. | Medium |
+| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
+| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
+| sessionid | ask.fiware.org | 15 days | Information about the Id. of the session. | Low |
 
 
 ## FIWARE Mailing Lists Website Cookies.  
 
-| Cookie | Owner | Duration | Purpose | Level |
-|--------|-------|----------|---------| :---: |
-|| \_ga | .fi-ware.org | 2 years | This cookie is used for getting use stats from the users of the portals. | 2 |
-| name of the mailing list + user | lists.fiware.org | Expires with the session This cookie is used as session identifier. | 1 |
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across websites. | Medium |
+| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
+| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
+| <name of the mailing list> + <user> | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
 
 
 ## Cookies of FIWARE Academy.

@@ -144,7 +144,7 @@ and the Secrecy And Security of Personal Data, as established in the EU General
 Data Protection Regulation. The data controller is the organisation responsible 
 for protecting information and, in our case, is FIWARE Foundation, e.V., 
 Franklinstrasse 13A, 10587 Berlin. The Contact of the Data Protection Officer is 
-[mailto:dataprotection@fiware.org dataprotection@fiware.org].
+[dataprotection@fiware.org](mailto:dataprotection@fiware.org).
 
 We process your personal data in accordance with the EU's General Data Protection 
 Regulation (GDPR) as follows:
@@ -189,7 +189,7 @@ If you would like access to or a copy of the personal information we hold about
 you, to request a correction, or have any questions about how we may use it or 
 to make a complaint, please contact the Data Protection Officer at the address 
 shown above or just email to 
-[mailto:fiware-personaldataprotection@lists.fiware.org fiware-personaldataprotection@lists.fiware.org].
+[fiware-personaldataprotection@lists.fiware.org](mailto:fiware-personaldataprotection@lists.fiware.org).
 
 Complaints will be dealt with by the Data Protection Officer and will be 
 responded to within 30 days at the latest.

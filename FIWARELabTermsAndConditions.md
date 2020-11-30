@@ -179,7 +179,7 @@ or any third party and We are not responsible for unauthorized access to your
 account.  You will contact Us immediately if You believe an unauthorized third 
 party may be using Your account or if Your Account information is lost or stolen. 
 You may terminate Your account and this Agreement at any time in accordance with 
-section [Termination](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#termination).
+section [Termination](#Termination).
 
 ### User Policy
 
@@ -249,10 +249,10 @@ No End User may share with or delegate to any other individual the rights You
 grant that End User.
 
 Except for the specific use of the FIWARE Lab Services as set above in section 
-[User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
-point 3, You are not granted any license under this agreement. Any use of 
-FIWARE GEi Software and related documentation that You may download from the 
-FIWARE Catalogue will be subject to the relevant license included therein.
+[User Policy](#User Policy) point 3, You are not granted any license under this 
+agreement. Any use of FIWARE GEi Software and related documentation that You may 
+download from the FIWARE Catalogue will be subject to the relevant license 
+included therein.
 
 Use of FIWARE Lab Services is permitted free of charge solely for Your or Your 
 End User's, experimental purposes, which are internal and non-commercial in 
@@ -660,7 +660,7 @@ RESULTING FROM THE FOLLOWING:
     1.  YOUR CONTENT, INCLUDING ANY DAMAGES OR LOSSES RESULTING FROM THE USE OF THE 
     CONTENT OR THE USE OF ANY PERSONAL DATA IN YOUR CONTENT
 
-   1.  STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON FIWARE Lab SERVICES
+    1.  STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON FIWARE Lab SERVICES
 
     1.  USAGE BY YOU OF THE FIWARE Lab SERVICES TOGETHER WITH ANY OTHER SERVICES, 
     SOFTWARE, APPLICATION OR TOOL NOT OFERRED BY US OR USE OF THE FIWARE Lab SERVICES 
@@ -692,7 +692,7 @@ YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE USE OF THE FIWARE Lab SERVICES OR TH
 CONTENT OF THE FIWARE Lab SITE IS AT YOUR SOLE RISK. FIWARE Lab SERVICES AND THE 
 REST OF THE CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE 
 MAXIMUM EXTENT PERMITTED BY LAW AND SUBJECT TO PARAGRAPH D AND E OF THE SECTION 
-[[#Liability|LIABILITY]] OF THIS AGREEMENT, THE EXPRESS TERMS OF THIS AGREEMENT 
+[LIABILITY](#Liability) OF THIS AGREEMENT, THE EXPRESS TERMS OF THIS AGREEMENT 
 ARE IN LIEU OF ALL WARRANTIES, CONDITIONS, TERMS, UNDERTAKINGS AND OBLIGATIONS 
 IMPLIED BY STATUTE, COMMON LAW, CUSTOM, TRADE USAGE, COURSE OF DEALING OR OTHERWISE, 
 ALL OF WHICH ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.

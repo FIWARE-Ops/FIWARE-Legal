@@ -17,33 +17,33 @@ advertising cookies.
 
 The use of cookies offers numerous advantages in the provision of
 information technology services, because, among others:
-1. They make it easier for the user to browse the Website and access the different services on offer
-1. They mean that users do not have to set up the general, predefined characteristics each time they enter the Website
-1. They enable us to improve the functioning and the services provided through the Website, after the corresponding analysis of the information obtained through the cookies installed.
+1.  They make it easier for the user to browse the Website and access the different services on offer
+1.  They mean that users do not have to set up the general, predefined characteristics each time they enter the Website
+1.  They enable us to improve the functioning and the services provided through the Website, after the corresponding analysis of the information obtained through the cookies installed.
 
 However, users can set up their browsers to accept or reject cookies, or select those allowed and those excluded.
 In the following are listed the procedures to be executed for the most popular browsers.
 
-* **Google Chrome**   
+*   **Google Chrome**   
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies   
-More information: https://support.google.com/chrome/answer/95647?hl=en.  
+More information: <https://support.google.com/chrome/answer/95647?hl=en>.
 
-* **Microsoft Internet Explorer**   
+*   **Microsoft Internet Explorer**   
 (in the Tools Menu): Internet \> Privacy \> Advanced   
-More information: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies.  
+More information: <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>.  
 
-* **Firefox**   
+*   **Firefox**   
 Options \> Privacy \> Cookies   
-More information: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop.    
+More information: <https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop>.    
 
-* **Safari**, iPad y iPhone   
+*   **Safari**, iPad y iPhone   
 Preferences \> Privacy   
-More information: http://www.apple.com/privacy/use-of-cookies/
+More information: <http://www.apple.com/privacy/use-of-cookies>
 
-* **Opera**
+*   **Opera**
 Settings \> Preferences \> Advanced \> Cookies   
-More information: http://help.opera.com/Linux/10.60/en/cookies.html
+More information: <http://help.opera.com/Linux/10.60/en/cookies.html>
 
 ## Analytical cookies
 
@@ -51,7 +51,7 @@ Analytical cookies make it possible to track and analyse the behaviour of the us
 of the websites with which they are associated. If you accept cookies on our sites, 
 We use Google Analytics on our sites for anonymous reporting of site usage. If you 
 would like to opt-out of Google Analytics monitoring your behaviour on our sites 
-please use this link (https://tools.google.com/dlpage/gaoptout).
+please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 
 ## FIWARE website (fiware.org) Cookies 
@@ -138,6 +138,6 @@ please use this link (https://tools.google.com/dlpage/gaoptout).
 ## Cookies Intrusiveness Level.  
 
 The cookies detailed above are graded on an "intrusiveness level " on a scale of 1 to 3, in which:  
-* **Low level**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
-* **Medium level**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their websites (e.g. Social Plugins from Facebook or Twitter).
-* **High level**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through websites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.
+*   **Low level**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
+*   **Medium level**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their websites (e.g. Social Plugins from Facebook or Twitter).
+*   **High level**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through websites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.

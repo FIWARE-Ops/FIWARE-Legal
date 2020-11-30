@@ -6,9 +6,9 @@ Foundation e.V. (“FIWARE”).
 
 At FIWARE we collect different types of information about our users for three main 
 reasons:
-1. To provide personalised services unique to individual users
-1. To help us to monitor and improve the services we offer
-1. To market services, always in scope of the FIWARE Foundation mission, to the 
+1.  To provide personalised services unique to individual users
+1.  To help us to monitor and improve the services we offer
+1.  To market services, always in scope of the FIWARE Foundation mission, to the 
 users we have permission for.
 
 There may be other privacy policies that apply to certain services we provide. 
@@ -16,16 +16,16 @@ Please read these when you register or subscribe for these services on those spe
 
 ## Our principles
 
-1. FIWARE adopts the necessary technical and organisational measures to avoid the loss, 
+1.  FIWARE adopts the necessary technical and organisational measures to avoid the loss, 
 misuse, alteration, unauthorised access, or theft of the personal data received, taking 
 into account the state of technology, the nature of the data, and the risks to which 
 they are exposed. This means:
-   1. we make sure that we have in place appropriate security measures to protect your 
+   1.  we make sure that we have in place appropriate security measures to protect your 
    information; and
-   1. we make sure that when we ask another organisation to provide a service for us, 
+   1.  we make sure that when we ask another organisation to provide a service for us, 
    they have in place appropriate security measures as well.  
 
-1. To respect your privacy is topmost of our concerns. You should receive marketing 
+1.  To respect your privacy is topmost of our concerns. You should receive marketing 
 emails only from us and, if you agree, from other organisations we have carefully 
 chosen following the current European and German legislation. We will make sure it 
 is clear when you can make these choices. However, we may email you occasionally with 
@@ -33,29 +33,29 @@ information or questions about your registration, your subscription account, or
 postings, for example, with reminders, warnings, business opportunities, or copyright 
 requests.
 
-1. We will collect and use individual user details only if we have explicit permission 
+1.  We will collect and use individual user details only if we have explicit permission 
 to do so, or we have sensible business reasons for doing so, such as collecting enough 
 information to manage subscriptions.
 
-1. We will be clear in our dealings with you as to what information about you we will 
+1.  We will be clear in our dealings with you as to what information about you we will 
 collect and how we will use it.
 
-1. We will use personal information only for the purposes for which it was originally 
+1.  We will use personal information only for the purposes for which it was originally 
 collected, how they are defined at the beginning of this document, and we will make 
 sure we delete it securely.
 
-1. Our Site is accessible via the internet. This means that people around the World 
+1.  Our Site is accessible via the internet. This means that people around the World 
 who access our website can see anything you post on the website or twitter comments 
 with the FIWARE hash.
 
-1. If we or our service providers transfer any information out of the European Union 
+1.  If we or our service providers transfer any information out of the European Union 
 (EU), it will only be done with the relevant protection (stated under European and 
 German law) being in place.   
 
 The information that it is collected from you consist on:
-* when you register or become a member of our portals 
-* when you use the website 
-* through cookies.
+*   when you register or become a member of our portals 
+*   when you use the website 
+*   through cookies.
 
 Certain services that we provide may involve us collecting extra information 
 (Membership, for example or subscription detail to the FIWARE Newsletter), such as 
@@ -115,19 +115,19 @@ We process your personal data in accordance with the EU's General Data Protectio
 
 Your personal data is processed for the performance of a contract, and to take steps at your request prior to entering into the contract. Examples:
 
-* Application for Membership
-* Providing online services
-* Providing member services
-* Processing online contact forms
+*   Application for Membership
+*   Providing online services
+*   Providing member services
+*   Processing online contact forms
 
 '''b) To fulfil legitimate interest/balancing of interest conditions (Art. 6 (1) point (f) GDPR)'''
 
 Where necessary, we process your data for reasons beyond fulfilling the contract, e.g. for the purposes of the legitimate interests pursued by us or by a third party. Examples:
 
-* For the purposes stated in our Bylaws with regard to Membership
-* For recruiting new Members
-* Establishing legal claims or for their defence in cases of dispute
-* Ensuring IT security, particularly in terms of access control
+*   For the purposes stated in our Bylaws with regard to Membership
+*   For recruiting new Members
+*   Establishing legal claims or for their defence in cases of dispute
+*   Ensuring IT security, particularly in terms of access control
 
 '''c) Where you have given your consent (Art. 6 (1) point (a) GDPR)'''
 

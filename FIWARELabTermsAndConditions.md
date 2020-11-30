@@ -13,86 +13,86 @@ FIWARE Open Innovation Lab (hereinafter, "FIWARE Lab") Services.
 
 ### Definitions
 
-1. **Terms and Conditions** refer to the FIWARE Lab Terms and Conditions.
+1.  **Terms and Conditions** refer to the FIWARE Lab Terms and Conditions.
 
-1. **You / Your** refers, as applicable, to you or the entity you represent.
+1.  **You / Your** refers, as applicable, to you or the entity you represent.
 
-1. **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. 
+1.  **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. 
 together with the parties providing resources for the various FIWARE Lab nodes 
 and listed in the [FIWARE Lab infographic](http://infographic.lab.fiware.org/) 
 page.           <!-- Infographics is not more used... -->
 
-1. **FIWARE Generic Enabler (GE)** products or **FIWARE GE** are the products 
+1.  **FIWARE Generic Enabler (GE)** products or **FIWARE GE** are the products 
 described in the [FIWARE Catalogue](https://github.com/FIWARE/catalogue).
 
-1. **FIWARE Lab Services** refer to services:
+1.  **FIWARE Lab Services** refer to services:
 
-   1. made available at the **FIWARE Lab Site** (lab.fiware.org), including hosting 
-   services provided by the **FIWARE Lab Cloud** (https://cloud.lab.fiware.org); or
-   1. provided by instances of FIWARE Generic Enabler (GE) products that have been 
+   1.  made available at the **FIWARE Lab Site** (lab.fiware.org), including hosting 
+   services provided by the **FIWARE Lab Cloud** (<https://cloud.lab.fiware.org>); or
+   1.  provided by instances of FIWARE Generic Enabler (GE) products that have been 
    deployed by any of Us on the FIWARE Lab Cloud and offered to You or have been 
    deployed by You on the FIWARE Lab Cloud using the tools and services that the 
    FIWARE Lab Cloud provides or using the installation and administration guides 
    provided to You for that purpose. 
 
-1. **Account Management Provider** refers to the FIWARE partner dealing with account 
+1.  **Account Management Provider** refers to the FIWARE partner dealing with account 
 management functions for the FIWARE Lab site.
 
-1. **Generic Enabler Provider** refers individually to the relevant FIWARE partner 
+1.  **Generic Enabler Provider** refers individually to the relevant FIWARE partner 
 who is providing the relevant FIWARE GE product which You or Your End User is 
 accessing.
 
-1. **This Agreement** refers to the agreement between You and Us (each referred 
+1.  **This Agreement** refers to the agreement between You and Us (each referred 
 to individually as "Party" and collectively as the "Parties") in compliance with 
 clauses defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
 
-1. **The Effective Date** is the date from which this Agreement takes effect as 
+1.  **The Effective Date** is the date from which this Agreement takes effect as 
 defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
 
-1. **Your Account** is the user account You have to create, in compliance with 
+1.  **Your Account** is the user account You have to create, in compliance with 
 the provisions of section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account), in order to be able to use FIWARE Lab Services.
 
-1. **Other User** means any individual or entity, other than You, that have 
+1.  **Other User** means any individual or entity, other than You, that have 
 created a user account in compliance with clauses defined in section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account) and therefore accesses and/or uses FIWARE Lab Services.
 
-1. **End User** means any individual or entity that accesses and/or uses Your 
+1.  **End User** means any individual or entity that accesses and/or uses Your 
 content or FIWARE Lab Services under Your Account.
 
-1. **Content** means software, data, text, audio, video, images and other 
+1.  **Content** means software, data, text, audio, video, images and other 
 information.
 
-1. **FIWARE Lab Content** means Content We, or any of Our affiliates, make 
+1.  **FIWARE Lab Content** means Content We, or any of Our affiliates, make 
 available in connection with the FIWARE Lab Services or on the FIWARE Lab 
 Site, including but not limited to Content deployed on the FIWARE Lab Cloud.
 
-1. **FIWARE Lab Information** means data, text, audio, video, images and other 
+1.  **FIWARE Lab Information** means data, text, audio, video, images and other 
 information that is provided as part of FIWARE Lab Content, or is attached or 
 used together with FIWARE Lab Content.
 
-1. **Your Content** means Content You, or any End User under Your Account or 
+1.  **Your Content** means Content You, or any End User under Your Account or 
 in connection with Your Account, deploy on the FIWARE Lab Site, including but 
 not limited to the FIWARE Lab Cloud, or cause to interface with the FIWARE 
 Lab Services.
 
-1. **Your Data** means data, text, audio, video, images and other information 
+1.  **Your Data** means data, text, audio, video, images and other information 
 that is part of Your Content, or is attached or used together with Your Content.
 
-1. **Your Software** means software (included related documentation), 
+1.  **Your Software** means software (included related documentation), 
 applications or any other tool developed, owned and/or licensed by You.
 
-1. **Third Party Content** means Content made available to You by any third 
+1.  **Third Party Content** means Content made available to You by any third 
 party on the FIWARE Lab Site, including but not limited to the FIWARE Lab Cloud, 
 or in conjunction with FIWARE Lab Services.
 
-1. **Third Party Data** means data, text, audio, video, images and other 
+1.  **Third Party Data** means data, text, audio, video, images and other 
 information that is part of Third Party Content, or is attached or used together 
 with Third Party Content.
 
-1. **Third Party Software** means software (included related documentation), 
+1.  **Third Party Software** means software (included related documentation), 
 applications or any other tool developed, owned and/or licensed by any third 
 party.
 
-1. **Your Feedback** means all reviews, comments, suggestions, bugs and issues 
+1.  **Your Feedback** means all reviews, comments, suggestions, bugs and issues 
 reports, enhancement requests, questions, or other information You provide to 
 Us with respect to FIWARE Lab Services or these Terms and Conditions.
 
@@ -192,12 +192,12 @@ and the available capacity.
 
 The main policies are summarized as follow:
 
-1. Users are categorized in "Trial" and "Community". Trial users include the users 
+1.  Users are categorized in "Trial" and "Community". Trial users include the users 
 accessing the Lab for testing the FIWARE technologies during a limited period of 
 time. Community users include users who have formally requested a longer-term 
 environment for working on the development of applications based on FIWARE technologies.
 
-1. Trial users will be provided with a limited set of resources and for a limited 
+1.  Trial users will be provided with a limited set of resources and for a limited 
 period of time (14 days) within a single node part of FIWARE Lab. To keep resources, 
 Trial users who wish to have a longer-term environment will need to apply (and 
 obtain) a Community account (see point 3 below). After the expiration of their 
@@ -209,7 +209,7 @@ are documented at the [[Reources_Available_to_Trial_users|Reources Available to 
 However, the amount of resources assigned to Trial Users may vary depending on 
 availability of new nodes and changes in internal policies.
 
-1. Users willing to become Community users shall apply through the specific process. 
+1.  Users willing to become Community users shall apply through the specific process. 
 Such process is activated by clicking on the ''Request Community Account'' button 
 in the [FIWARE Lab home page](https://lab.fiware.org). Through the process Users 
 will need to describe the application they are developing and the planned usage 
@@ -220,15 +220,15 @@ to a given FIWARE accelerator project, each of which is linked to a default node
 By issuing a request for additional resources, Community users may be able to access 
 additional nodes if well motivated.
 
-1. If the total quota assigned to Trial users gets exhausted, requests to create a 
+1.  If the total quota assigned to Trial users gets exhausted, requests to create a 
 Trial user account that require management of cloud resources will be queued and 
 notified once resources are available on a "first come, first served" basis.
 
-1. Users requesting a Public IP need to provide a verifiable identity information 
+1.  Users requesting a Public IP need to provide a verifiable identity information 
 that will be handled by FIWARE infrastructure providers to ensure the possibly to 
 track liable actions within the FIWARE Lab.
 
-1. Users will not be able to create new "Organizations" anymore beyond the 
+1.  Users will not be able to create new "Organizations" anymore beyond the 
 organization linked to their account. FIWARE Lab allows to share access to the 
 cloud environment set up by a given user by adding users to the organization 
 linked to that user. As a consequence, existing organizations will be blocked 
@@ -286,92 +286,92 @@ SERVICES' intended use.
 
 You represent that You shall, and procure that Your End Users shall:
 
-1. comply with any instructions from Us relating to the use of the FIWARE Lab 
+1.  comply with any instructions from Us relating to the use of the FIWARE Lab 
 Services,
 
-1. not use the FIWARE Lab Services in a manner which is inconsistent with a 
+1.  not use the FIWARE Lab Services in a manner which is inconsistent with a 
 reasonable good faith use of the FIWARE Lab Services,
 
-1. not use the FIWARE Lab Services in a manner which, in Our opinion, will 
+1.  not use the FIWARE Lab Services in a manner which, in Our opinion, will 
 (or is likely to) adversely affect the provision of the FIWARE Lab Services,
 
-1. not use the FIWARE Lab Services in a manner which may perturb, interfere, 
+1.  not use the FIWARE Lab Services in a manner which may perturb, interfere, 
 distort or damage the FIWARE Lab Services or any third party's system,
 
-1. not use the FIWARE Lab Services fraudulently or in connection with a criminal 
+1.  not use the FIWARE Lab Services fraudulently or in connection with a criminal 
 offence,
 
-1. not use the FIWARE Lab Services to send, knowingly receive, store or 
+1.  not use the FIWARE Lab Services to send, knowingly receive, store or 
 communicate any material which is illegal, unlawful, offensive, abusive, 
 indecent, defamatory, obscene or menacing, a nuisance or a hoax or any other 
 type of material likely to cause offence,
 
-1. not use the FIWARE Lab Services in order to harass, spy on, pester, cause 
+1.  not use the FIWARE Lab Services in order to harass, spy on, pester, cause 
 annoyance or unnecessary anxiety to any person, or to pass as someone else or 
 act in a manner which may be reasonably deemed to be objectionable, or which 
 is in any way harmful to third parties,
 
-1. not use the FIWARE Lab Services in a way that contravenes any license, code 
+1.  not use the FIWARE Lab Services in a way that contravenes any license, code 
 of practice, instructions or guidelines issued by a relevant regulatory authority,
 
-1. not use the FIWARE Lab Services to spam or to send unsolicited advertising 
+1.  not use the FIWARE Lab Services to spam or to send unsolicited advertising 
 or promotional material,
 
-1. not use the FIWARE Lab Services to send or transmit anything, content or 
+1.  not use the FIWARE Lab Services to send or transmit anything, content or 
 material which consists of or contains virus software,
 
-1. not use the FIWARE Lab Services in a manner which may damage our reputation, 
+1.  not use the FIWARE Lab Services in a manner which may damage our reputation, 
 the reputation of the FIWARE Lab Services or otherwise bring Us or the reputation 
 of third parties into disrepute,
 
-1. not use the FIWARE Lab Services in any manner which violates copyright, trademark, 
+1.  not use the FIWARE Lab Services in any manner which violates copyright, trademark, 
 confidentiality, privacy, or which infringes the intellectual or industrial property 
 rights of others,
 
-1. hold and will continue to hold any licenses, consents and/or notifications 
+1.  hold and will continue to hold any licenses, consents and/or notifications 
 required under any applicable legislation, regulation and/or administrative order 
 to receive and use the FIWARE Lab Services,
 
-1. comply with our reasonable instructions relating to health, safety, security 
+1.  comply with our reasonable instructions relating to health, safety, security 
 and use of the FIWARE Lab Services,
 
-1. comply with all applicable laws and regulatory provisions
+1.  comply with all applicable laws and regulatory provisions
 
-1. comply with any applicable use policy that We may issue from time to time and 
+1.  comply with any applicable use policy that We may issue from time to time and 
 posted in the FIWARE Lab Site,
 
-1. not insert in Our System any Content which breaches or could breach the law, 
+1.  not insert in Our System any Content which breaches or could breach the law, 
 public order, public morality or any third-party rights. You understand that any 
 of Your Content is of Your sole responsibility,
 
-1. not remove, change or obscure any warning regarding intellectual or industrial 
+1.  not remove, change or obscure any warning regarding intellectual or industrial 
 property rights displayed on the FIWARE Lab Site or on any other material available 
 on the site, including any software provided as part of the FIWARE Lab Services,
 
-1. not use multiple "logins" for harmful purposes or in a premeditated manner so 
+1.  not use multiple "logins" for harmful purposes or in a premeditated manner so 
 as to cause annoyance to others.
 
 Furthermore, You shall not, and shall procure that Your End Users do not, unless 
 expressly allowed in writing by the relevant Generic Enabler Provider:
 
-1. copy, use, reverse engineer, amend, disassemble, disintegrate, decompile, or 
+1.  copy, use, reverse engineer, amend, disassemble, disintegrate, decompile, or 
 otherwise attempt to reconstruct, identify, discover or derive the source code, 
 underlying ideas, underlying user interface techniques or algorithms or disclose 
 any of the foregoing, or in any other way interfere with any software provided as 
 part of the FIWARE Lab Services or any other service or tool made available on the 
 FIWARE Lab Site,
 
-1. modify, incorporate into or with other software any software provided as part of 
+1.  modify, incorporate into or with other software any software provided as part of 
 the FIWARE Lab Services or any other service or tool made available on the FIWARE 
 Lab Site,
 
-1. transfer, assign or otherwise delegate your right to use the FIWARE Lab Services 
+1.  transfer, assign or otherwise delegate your right to use the FIWARE Lab Services 
 or any software provided as part of the FIWARE Lab Services or any other service or 
 tool made available on the FIWARE Lab Site, or to try to do so, except to the 
 limited extent permitted under section [User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
 point 2 with respect to End Users,
 
-1. not use any software provided as part of the FIWARE Lab Services in order to 
+1.  not use any software provided as part of the FIWARE Lab Services in order to 
 develop or enhance any product that competes with such software or use such 
 software for other purposes.
 
@@ -441,19 +441,19 @@ at any time.
 
 We shall have the rights, but not the obligations:
 
-1. to monitor and track Your use of the FIWARE Lab Services
+1.  to monitor and track Your use of the FIWARE Lab Services
 
-1. to interrupt the FIWARE Lab Services in order to perform any work that, in 
+1.  to interrupt the FIWARE Lab Services in order to perform any work that, in 
 Our opinion, is needed
 
-1. to take statistics about Your Content or use of Your Content and publish such 
+1.  to take statistics about Your Content or use of Your Content and publish such 
 statistics in an anonymous way
 
-1. to act upon Your Content whenever it is required to solve issues that affect 
+1.  to act upon Your Content whenever it is required to solve issues that affect 
 overall operations of the FIWARE Lab Services or to comply with existing laws 
 and/or regulations
 
-1. to mention You as user of the FIWARE Lab Services.  
+1.  to mention You as user of the FIWARE Lab Services.  
 
 The Account Manager Provider will do reasonable efforts in order to notify You, 
 through the FIWARE Lab Site and/or email, about any interruptions as soon as 
@@ -481,13 +481,13 @@ Your Feedback, Your Content or Third Party Content.
 
 You agree that:
 
-1. We are not obligated to provide any technical assistance, training, 
+1.  We are not obligated to provide any technical assistance, training, 
 consultation, or any other support to You; however,
 
-1. We may decide, at our own discretion, to provide "limited support" without 
+1.  We may decide, at our own discretion, to provide "limited support" without 
 any obligation to provide any particular service level or support services; and
 
-1. We may cease providing the FIWARE Lab Services, or part of them at any time 
+1.  We may cease providing the FIWARE Lab Services, or part of them at any time 
 without notice. This Article supersedes any conflicting term of this Agreement.   
 
 You acknowledge that the provision of the FIWARE Lab Services might not be 
@@ -514,34 +514,34 @@ provided We give You fifteen (15) Business Days' prior notice.
 Additionally, we may at any time suspend or terminate immediately the provision 
 of the FIWARE Lab Services and/or this Agreement without liability to You if:
 
-1. You hack or break, or seek to hack or break, any security mechanism.
+1.  You hack or break, or seek to hack or break, any security mechanism.
 
-1. We otherwise determine in Our sole discretion that Your use of the FIWARE Lab 
+1.  We otherwise determine in Our sole discretion that Your use of the FIWARE Lab 
 Services or the End User's use of the FIWARE Lab Services poses a security or 
 service risk that may be subject Us or any third party to liability.
 
-1. We determine in Our sole discretion that You, Your employees, directors, 
+1.  We determine in Our sole discretion that You, Your employees, directors, 
 officers or agents or any of the End Users, are using the FIWARE Lab Services 
 or are acting in such a way that the FIWARE Lab Services provided to Other 
 Users or any infrastructure related to the FIWARE Lab Services are adversely 
 affected
 
-1. We determine in Our sole discretion that providing the FIWARE Lab Services 
+1.  We determine in Our sole discretion that providing the FIWARE Lab Services 
 to You could create a substantial economic or technical burden for Us
 
-1. We determine in Our sole discretion, that Our provision of any of the Service 
+1.  We determine in Our sole discretion, that Our provision of any of the Service 
 to You has become impractical or unfeasible for any legal or regulatory reason
 
-1. Subject to the applicable law, upon Your liquidation, commencement of 
+1.  Subject to the applicable law, upon Your liquidation, commencement of 
 dissolutions proceedings, disposal of Your assets, failure to continue Your business, 
 assignment for the benefit of creditors, or if You become the subject of a voluntary 
 or involuntary bankruptcy or similar proceeding or if an arrangement with creditors 
 is made or a receiver or administrator is appointed over any other party's assets 
 or the other party goes into liquidation.
 
-1. In order to comply with applicable law.
+1.  In order to comply with applicable law.
 
-1. If You or any End User, breaches any other obligation hereunder.  
+1.  If You or any End User, breaches any other obligation hereunder.  
 
 
 Notwithstanding the foregoing, upon termination of the Agreement, We may need 
@@ -556,15 +556,15 @@ obligation to continue to store Your Content or to permit You to retrieve the sa
 We may suspend Your or any End User's right to access or use the FIWARE Lab Services 
 offered under this Agreement immediately without notice to You if We determine:
 
-1. Your or Your End User's use of or registration for the FIWARE Lab Services (i) 
+1.  Your or Your End User's use of or registration for the FIWARE Lab Services (i) 
 poses a security risk to the FIWARE Lab Services or any third party, (ii) may 
 adversely impact the FIWARE Lab Services or the Systems or Content of any other 
 user of the FIWARE Lab Services, (iii) may subject Us, Our affiliates, or any 
 third party to liability, or (iv) may be fraudulent.
 
-1. You are, or any End User is, in breach of this Agreement; or
+1.  You are, or any End User is, in breach of this Agreement; or
 
-1. You have ceased to operate in the ordinary course, made an assignment for the 
+1.  You have ceased to operate in the ordinary course, made an assignment for the 
 benefit of creditors or similar disposition of Your assets, or become the subject 
 of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding.  
 
@@ -587,14 +587,14 @@ the rights to the respective FIWARE Lab Service - reserve all right, title
 and interest (including all intellectual property and proprietary rights) 
 in and to:
 
-* the FIWARE Lab Services
-* FIWARE Lab Content and FIWARE Lab Information owned by some of Us and made 
+*   the FIWARE Lab Services
+*   FIWARE Lab Content and FIWARE Lab Information owned by some of Us and made 
 available from Us to You
-* FIWARE Lab Information
-* the  GE Products
-* the trademarks, service marks, service or trade names, logos, and other 
+*   FIWARE Lab Information
+*   the  GE Products
+*   the trademarks, service marks, service or trade names, logos, and other 
 designations of Us or of Our licensors ("Marks"); and
-* any other technology and software that We own and use to provide the FIWARE 
+*   any other technology and software that We own and use to provide the FIWARE 
 Lab Services and the FIWARE Lab Information.
 
 You do not, by virtue of this Agreement or otherwise, acquire any ownership 
@@ -641,7 +641,7 @@ by such Third Party.
 ## Liability, Disclaimers and Indemnity
 ### Liability
 
-1. SUBJECT TO PARAGRAPHS D AND E OF THIS SECTION, WE WILL NOT EITHER SEVERALLY OR 
+1.  SUBJECT TO PARAGRAPHS D AND E OF THIS SECTION, WE WILL NOT EITHER SEVERALLY OR 
 JOINTLY BE LIABLE TO YOU OR THE END USER IN RESPECT OF ANY MATTER ARISING OUT OF 
 OR IN CONNECTION WITH THIS AGREEMENT OR THE PROVISION OF FIWARE Lab SERVICES, IN 
 CONTRACT OR TORT (INCLUDING NEGLIGENCE) OR OTHERWISE FOR ANY LOSS OF PROFIT 
@@ -650,41 +650,41 @@ BUSINESS INTERRUPTION, FROM WASTED EXPENDITURE OR ANY LOSS OR CORRUPTION OF DATA
 OR FOR ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE WHATSOEVER, EVEN IF WE HAVE 
 BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-1. YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE WILL NOT EITHER SEVERALLY OR JOINTLY, 
+1.  YOU EXPRESSLY UNDERSTAND AND AGREE THAT WE WILL NOT EITHER SEVERALLY OR JOINTLY, 
 BE LIABLE TO YOU, TO THE END USERS OR TO ANY THIRD PARTY, FOR ANY DAMAGES OR LOSSES 
 RESULTING FROM THE FOLLOWING:
-   1. THE USE OF OR THE INABILITY TO USE THE FIWARE Lab SERVICES
+   1.  THE USE OF OR THE INABILITY TO USE THE FIWARE Lab SERVICES
 
-   1. THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND FIWARE Lab SERVICES
+   1.  THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND FIWARE Lab SERVICES
 
-   1. UNAUTHORIZED ACCESS TO OR ALTERATION OF, OR THE DELETION, DESTRUCTIONS, DAMAGE, 
+   1.  UNAUTHORIZED ACCESS TO OR ALTERATION OF, OR THE DELETION, DESTRUCTIONS, DAMAGE, 
    LOSS OR FAILURE TO STORE ANY OF YOUR TRANSMISSIONS OR CONTENT OR OTHER DATA
 
-   1. YOUR CONTENT, INCLUDING ANY DAMAGES OR LOSSES RESULTING FROM THE USE OF THE 
+   1.  YOUR CONTENT, INCLUDING ANY DAMAGES OR LOSSES RESULTING FROM THE USE OF THE 
    CONTENT OR THE USE OF ANY PERSONAL DATA IN YOUR CONTENT
 
-   1. STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON FIWARE Lab SERVICES
+   1.  STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON FIWARE Lab SERVICES
 
-   1. USAGE BY YOU OF THE FIWARE Lab SERVICES TOGETHER WITH ANY OTHER SERVICES, 
+   1.  USAGE BY YOU OF THE FIWARE Lab SERVICES TOGETHER WITH ANY OTHER SERVICES, 
    SOFTWARE, APPLICATION OR TOOL NOT OFERRED BY US OR USE OF THE FIWARE Lab SERVICES 
    IN A WAY NOT EXPRESSLY PERMITTED UNDER THIS AGREEMENT, OR
 
-   1. LOSS OF, OR DAMAGE TO, YOUR RECORDS OR DATA, OR ANY DAMAGES CLAIMED BY YOU 
+   1.  LOSS OF, OR DAMAGE TO, YOUR RECORDS OR DATA, OR ANY DAMAGES CLAIMED BY YOU 
    BASED ON A THIRD PARTY CLAIM.
   
 
-1. SUBJECT TO PARAGRAPHS A, B, D AND E OF THIS SECTION, OUR AGGREGATE LIABILITY 
+1.  SUBJECT TO PARAGRAPHS A, B, D AND E OF THIS SECTION, OUR AGGREGATE LIABILITY 
 RESULTING FROM BREACH OF CONTRACT OR NEGLIGENCE, UNDER ANY INDEMNITY OR OTHERWISE 
 ARISING IN CONNECTION WITH THIS AGREEMENT OR THE PROVISION OF FIWARE Lab SERVICES, 
 (WHETHER TO YOU, ANY OF YOUR END USERS OR OTHERWISE) SHALL BE LIMITED IN RESPECT 
 OF ALL CLAIMS TO AN AMOUNT EQUAL TO 50 €.
 
-1. NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF YOU FOR:
+1.  NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF YOU FOR:
 
-   1. DEATH OR PERSONAL INJURY RESULTING FROM YOUR NEGLIGENCE; OR
-   1. FRAUD OR FRAUDULENT MISREPRESENTATION.
+   1.  DEATH OR PERSONAL INJURY RESULTING FROM YOUR NEGLIGENCE; OR
+   1.  FRAUD OR FRAUDULENT MISREPRESENTATION.
 
-1. NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER 
+1.  NOTHING IN THIS AGREEMENT SHALL EXCLUDE OR RESTRICT THE LIABILITY OF EITHER 
 PARTY IN RESPECT OF ANY LIABILITY WHICH CANNOT BE EXCLUDED OR RESTRICTED BY LAW.  
 ACCORDINGLY, THE LIMITATION OF LIABILITY SHALL NOT APPLY TO DAMAGES RESULTING FROM 
 WILFUL INTENT.  
@@ -702,13 +702,13 @@ ALL OF WHICH ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
 
 SPECIFICALLY, WE DO NOT WARRANT THAT:
 
-1. THE FIWARE Lab SERVICES WILL MEET YOUR REQUIREMENTS OR THE FIWARE Lab SERVICES 
+1.  THE FIWARE Lab SERVICES WILL MEET YOUR REQUIREMENTS OR THE FIWARE Lab SERVICES 
 WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE
 
-1. THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF SERVICES WILL BE ACCURATE OR 
+1.  THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF SERVICES WILL BE ACCURATE OR 
 RELIABLE; OR
 
-1. THE QUALITY OF ANY PRODUCT, SERVICES, INFORMATION OR OTHER MATERIAL OBTAINED BY 
+1.  THE QUALITY OF ANY PRODUCT, SERVICES, INFORMATION OR OTHER MATERIAL OBTAINED BY 
 YOU THROUGH THE FIWARE Lab SERVICES OR USING THE SITE WILL MEET YOU EXPECTATIONS.  
 
 
@@ -737,19 +737,19 @@ Lab SERVICES. THE FIWARE PARTNERS ARE NOT RESPONSIBLE FOR ANY LOSS OF DATA.
 YOU AGREE TO HOLD HARMLESS AND INDEMNIFY US, AND OUR SUBSIDIARIES, AFFILIATES, 
 OFFICERS, AGENTS, AND EMPLOYEES, ADVERTISERS OR PARTNERS, FROM AND AGAINST:
 
-* ANY THIRD PARTY CLAIM ARISING FROM OR IN ANY WAY RELATED TO YOUR USE OF THE 
+*   ANY THIRD PARTY CLAIM ARISING FROM OR IN ANY WAY RELATED TO YOUR USE OF THE 
 FIWARE Lab SERVICES AND/OR YOUR CONTENT, OR TO AN ACTUAL OR ALLEGED BREACH OF 
 YOUR OBLIGATIONS UNDER THIS AGREEMENT, INCLUDING (WITHOUT LIMITATION) BREACH OF 
 YOUR OBLIGATIONS RELATED TO THE CONTENT AND PERSONAL DATA
-* ANY AND ALL DAMAGE AS A RESULT OF THE VIOLATION (BY YOU OR YOUR END USERS) OF 
+*   ANY AND ALL DAMAGE AS A RESULT OF THE VIOLATION (BY YOU OR YOUR END USERS) OF 
 THE APPLICABLE LAW OR THESE TERMS AND CONDITIONS, OR AS A RESULT OF ANY OTHER 
 ACTIONS CONNECTED WITH USE OF THE FIWARE Lab SERVICES OR OF THE FIWARE Lab SITE 
 CONTENT, OR AS A RESULT OF A BREACH OF A TERM OF THIS AGREEMENT RESULTING FROM 
 YOUR END USER'S USE OF THE FIWARE Lab SERVICES 
-* ANY CLAIMS AGAINST US MADE BY ANY OF YOUR END USERS
-* ANY AND ALL DAMAGE AS A RESULT OF THE USE OF THE FIWARE Lab SERVICES WITH 
+*   ANY CLAIMS AGAINST US MADE BY ANY OF YOUR END USERS
+*   ANY AND ALL DAMAGE AS A RESULT OF THE USE OF THE FIWARE Lab SERVICES WITH 
 THIRD PARTY SERVICES OR PRODUCTS; AND
-* ANY AND ALL DAMAGE TO ANY EQUIPMENT BELONGING TO US CAUSED BY YOUR BREACH OR 
+*   ANY AND ALL DAMAGE TO ANY EQUIPMENT BELONGING TO US CAUSED BY YOUR BREACH OR 
 YOUR END'S USERS BREACH OF THIS AGREEMENT; INCLUDING ANY LIABILITY OR EXPENSE 
 ARISING FROM ALL CLAIMS, LOSSES, DAMAGES (ACTUAL AND CONSEQUENTIAL), SUITS, 
 JUDGMENTS, LITIGATION COSTS AND ATTORNEYS' FEES, OF EVERY KIND AND NATURE. IN 
@@ -890,11 +890,11 @@ shall be in the English language.
 You can see the historical (and now deprecated) versions of this document in the 
 following pages:
 
-* [[FI-NEXT:_FIWARE_LAB_Terms_and_Conditions|FIWARE LAB Terms and Conditions]], 
+*   [[FI-NEXT:_FIWARE_LAB_Terms_and_Conditions|FIWARE LAB Terms and Conditions]], 
 changes due to the EU General Data Protection Regulation, reference to the Privacy 
 Policy document in section Account Personal Data Protection.
-* [[FI-Core:_FIWARE_LAB_Terms_and_Conditions| FIWARE LAB Terms and Conditions]], 
+*   [[FI-Core:_FIWARE_LAB_Terms_and_Conditions| FIWARE LAB Terms and Conditions]], 
 version held during FI-Core project (finished now).
-* [[FI-LAB_Terms_and_Conditions|FI-LAB Terms and Conditions]], version held during 
+*   [[FI-LAB_Terms_and_Conditions|FI-LAB Terms and Conditions]], version held during 
 FI-WARE project.
 

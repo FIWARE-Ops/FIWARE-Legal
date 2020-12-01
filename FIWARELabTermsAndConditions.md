@@ -253,7 +253,7 @@ No End User may share with or delegate to any other individual the rights You
 grant that End User.
 
 Except for the specific use of the FIWARE Lab Services as set above in section 
-[User Policy](#User Policy) point 3, You are not granted any license under this 
+[User Policy](#user-policy) point 3, You are not granted any license under this 
 agreement. Any use of FIWARE GEi Software and related documentation that You may 
 download from the FIWARE Catalogue will be subject to the relevant license 
 included therein.
@@ -372,7 +372,7 @@ Lab Site,
 1.  transfer, assign or otherwise delegate your right to use the FIWARE Lab Services 
 or any software provided as part of the FIWARE Lab Services or any other service or 
 tool made available on the FIWARE Lab Site, or to try to do so, except to the 
-limited extent permitted under section [User Policy](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#user-policy) 
+limited extent permitted under section [User Policy](#user-policy) 
 point 2 with respect to End Users,
 
 1.  not use any software provided as part of the FIWARE Lab Services in order to 
@@ -504,7 +504,7 @@ This Agreement shall enter into force from the Effective Date in accordance with
 section [Definitions](#Definitions) above, and will remain in effect until 
 terminated by You or Us in accordance with section [Termination](#Termination), 
 or as varied by any new Terms and Conditions which may be posted on the website as 
-permitted at section [Amendment of this Agreement](#Amendment of this Agreement).
+permitted at section [Amendment of this Agreement](#amendment-of-this-agreement).
 
 ### Termination
 
@@ -584,7 +584,7 @@ You about the suspension of Your account.
 ### Ownership
 
 Other than the limited use and access rights expressly set forth in section 
-[User Policy](#User Policy) point 3 of This Agreement.  We - respectively 
+[User Policy](#user-policy) point 3 of This Agreement.  We - respectively 
 each the FIWARE Parties owning the rights to the respective FIWARE Lab 
 Service - reserve all right, title and interest (including all intellectual 
 property and proprietary rights) in and to:
@@ -603,11 +603,11 @@ You do not, by virtue of this Agreement or otherwise, acquire any ownership
 interest or rights in the FIWARE Lab Services, the FIWARE Lab Content, the 
 FIWARE Lab Information, Our Systems, the Marks, or other technology and software 
 (including third party technology and software), except for the limited use 
-and access rights described in section [User Policy](#User Policy) 
+and access rights described in section [User Policy](#user-policy) 
 point 3 of This Agreement.
 
 Other than the rights and interests expressly set forth in section 
-[User Policy](#User Policy) point 3 of This Agreement, and excluding the FIWARE 
+[User Policy](#user-policy) point 3 of This Agreement, and excluding the FIWARE 
 Lab Content and works derived from the FIWARE Lab Content, You reserve all right, 
 title and interest (including all intellectual property and proprietary rights) 
 in and to: (i) the Content or any other content and data You may send to Us or 
@@ -780,7 +780,7 @@ obligations hereunder.
 ## Confidentiality
 
 Without derogating the provisions of section 
-[Account Personal Data Protection](#Account Personal Data Protection), 
+[Account Personal Data Protection](#account-personal-data-protection), 
 all the information obtained or received as a result of entering into or 
 performing the FIWARE Lab Services, is non-confidential. All Parties to this 
 Agreement agree not to disclose any information to the other Party which is 
@@ -891,11 +891,11 @@ shall be in the English language.
 You can see the historical (and now deprecated) versions of this document in the 
 following pages:
 
-*   [[FI-NEXT:_FIWARE_LAB_Terms_and_Conditions|FIWARE LAB Terms and Conditions]], 
+*   **FI-NEXT:_FIWARE_LAB_Terms_and_Conditions|FIWARE LAB Terms and Conditions**, 
 changes due to the EU General Data Protection Regulation, reference to the Privacy 
 Policy document in section Account Personal Data Protection.
-*   [[FI-Core:_FIWARE_LAB_Terms_and_Conditions| FIWARE LAB Terms and Conditions]], 
+*   **FI-Core:_FIWARE_LAB_Terms_and_Conditions| FIWARE LAB Terms and Conditions**, 
 version held during FI-Core project (finished now).
-*   [[FI-LAB_Terms_and_Conditions|FI-LAB Terms and Conditions]], version held during 
+*   **FI-LAB_Terms_and_Conditions|FI-LAB Terms and Conditions**, version held during 
 FI-WARE project.
 

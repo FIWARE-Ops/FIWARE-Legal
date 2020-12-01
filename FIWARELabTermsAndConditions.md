@@ -44,16 +44,19 @@ accessing.
 
 1.  **This Agreement** refers to the agreement between You and Us (each referred 
 to individually as "Party" and collectively as the "Parties") in compliance with 
-clauses defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
+clauses defined in section [Rights and Obligations](#rights-and-obligations).
 
 1.  **The Effective Date** is the date from which this Agreement takes effect as 
-defined in section [Rights and Obligations](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#rights-and-obligations).
+defined in section [Rights and Obligations](#rights-and-obligations).
 
 1.  **Your Account** is the user account You have to create, in compliance with 
-the provisions of section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account), in order to be able to use FIWARE Lab Services.
+the provisions of section [Registration and User Account](#registration-and-user-account), 
+in order to be able to use FIWARE Lab Services.
 
 1.  **Other User** means any individual or entity, other than You, that have 
-created a user account in compliance with clauses defined in section [Registration and User Account](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#registration-and-user-account) and therefore accesses and/or uses FIWARE Lab Services.
+created a user account in compliance with clauses defined in section 
+[Registration and User Account](#registration-and-user-account) and therefore 
+accesses and/or uses FIWARE Lab Services.
 
 1.  **End User** means any individual or entity that accesses and/or uses Your 
 content or FIWARE Lab Services under Your Account.
@@ -101,7 +104,8 @@ Us with respect to FIWARE Lab Services or these Terms and Conditions.
 By clicking the "Submit" button and with thickmark on in the check box about 
 these Terms and Conditions, You state that You have read and accepted these 
 Terms and Conditions or any modification to these Terms and Conditions in 
-accordance with section [Amendment of this Agreement](https://github.com/depa02/FIWARE-Legal/blob/FIWARELABTermsAndConditions-edits/FIWARELabTermsAndConditions.md#amendment-of-this-agreement) below.
+accordance with section [Amendment of this Agreement](#amendment-of-this-agreement) 
+below.
 
 Acceptance of these Terms and Conditions constitute a binding agreement between 
 You and Us.
@@ -205,7 +209,7 @@ trial period, the account assigned to a Trial user is disabled and the associate
 resources released - any backup is up to the user. FIWARE Lab is not responsible 
 for the loss of any data. Reminders are sent one week before the expiration day 
 as well as the day before. The total resources made available to Trial Users 
-are documented at the [Reources Available to Trial users](#Reources Available to Trial users)
+are documented at the [Resources Available to Trial users](https://www.fiware.org/developers/fiware-lab)
 page. However, the amount of resources assigned to Trial Users may vary depending 
 on availability of new nodes and changes in internal policies.
 

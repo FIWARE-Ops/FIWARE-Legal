@@ -8,7 +8,7 @@ theme: readthedocs
 # google_analytics: ["UA-*-1", "fiware-legal.readthedocs.io"]
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css",
             "https://www.fiware.org/style/fiware_readthedocs_neutral.css",
-            "css/custom.css"]
+            "https://raw.githubusercontent.com/depa02/FIWARE-Legal/develop/_static/css/custom.css"]
 
 pages:
   - Legal: "index.md"

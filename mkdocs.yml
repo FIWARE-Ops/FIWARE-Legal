@@ -10,6 +10,3 @@ theme: readthedocs
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_neutral.css"]
 pages:
   - Legal: "index.md"
-      - "FIWARE Cookies Policy": "FIWARECookiesPolicy.md"
-      - "FIWARE Lab Terms & Conditions": "FIWARELabTermsAndConditions.md"
-      - "FIWARE Personal Data Protection Policy": "PersonalDataProtection.md"

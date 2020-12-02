@@ -1,6 +1,6 @@
 site_name: "<span style='color:#5dc0cf'>FIWARE<br/>Legal</span>"
 site_url: https://fiware-legal.readthedocs.org
-repo_url: https://github.com/depa02/FIWARE-Legal
+# repo_url: https://github.com/depa02/FIWARE-Legal
 site_description: FIWARE Legal documents
 docs_dir: docs
 site_dir: html

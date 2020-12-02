@@ -58,7 +58,7 @@ would like to opt-out of Google Analytics monitoring your behaviour on our sites
 please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 
-## FIWARE website (fiware.org) Cookies 
+## FIWARE Site (fiware.org) Cookies 
 
 | Cookie | Domain | Expiration | Purpose | Intrusiveness level |
 |--------|--------|------------|---------|:------------------: |
@@ -127,7 +127,7 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 | sessionid | ask.fiware.org | 15 days | Information about the ID. of the session. | Low |
 
 
-## FIWARE Mailing Lists Website Cookies.  
+## FIWARE Mailing Lists (lists.fiware.org) site Cookies.  
 
 | Cookie | Domain | Expiration | Purpose | Intrusiveness level |
 |--------|--------|------------|---------|:------------------: |

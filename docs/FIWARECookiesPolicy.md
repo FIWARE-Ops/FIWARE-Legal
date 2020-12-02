@@ -17,12 +17,12 @@ advertising cookies.
 
 The use of cookies offers numerous advantages in the provision of
 information technology services, because, among others:
-1.  They make it easier for the user to browse the Website and access 
+1.  They make it easier for the user to browse the Site and access 
 the different services on offer.
 1.  They mean that users do not have to set up the general, predefined 
-characteristics each time they enter the Website.
+characteristics each time they enter the Site.
 1.  They enable us to improve the functioning and the services provided 
-through the Website, after the corresponding analysis of the information 
+through the Site, after the corresponding analysis of the information 
 obtained through the cookies installed.
 
 However, users can set up their browsers to accept or reject cookies, or 

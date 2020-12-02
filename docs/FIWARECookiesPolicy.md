@@ -4,15 +4,15 @@
 In accordance with the applicable law regarding the use of
 cookies in relation to the provision of electronic communication
 services, We, the FIWARE Foundation e.V., hereby inform you about the
-cookies used on the sites owned by us (hereinafter, the "Websites")
-and why they are used. By browsing the Websites, you are giving your
-consent for them to be used. The cookies used on our Websites include
+cookies used on the sites owned by us (hereinafter, the "Sites")
+and why they are used. By browsing the Sites, you are giving your
+consent for them to be used. The cookies used on our Sites include
 both 'our own' and those of third parties and they enable us to store
 and access information in relation to the language, the type of browser
 used and other general characteristics predefined by the user, and also
 to track and analyze the activity carried out in order to introduce
 improvements and to provide our services in a more efficient,
-personalized manner. Websites does not use advertising or behavioral
+personalized manner. Sites does not use advertising or behavioral
 advertising cookies.
 
 The use of cookies offers numerous advantages in the provision of

@@ -145,9 +145,9 @@ and maintain a valid email address.
 ### Registration and User Account
 
 To access the FIWARE Lab Services, You will be required to create a user account, 
-which requires You to provide, amongst other things, a valid e-mail address at 
+which requires You to provide, amongst other things, a valid email address at 
 which You will accept communications from Us. Unless explicitly permitted, You 
-may only create one user account per e-mail address and you will have a unique 
+may only create one user account per email address and you will have a unique 
 email address on FIWARE Lab. During the process for creation of Your Account, 
 You will be required to choose a User ID and a password to get access to the 
 FIWARE Lab Services.
@@ -183,7 +183,7 @@ or any third party and We are not responsible for unauthorized access to your
 account.  You will contact Us immediately if You believe an unauthorized third 
 party may be using Your account or if Your Account information is lost or stolen. 
 You may terminate Your account and this Agreement at any time in accordance with 
-section [Termination](#Termination).
+section [Termination](#termination).
 
 ### User Policy
 
@@ -215,7 +215,7 @@ on availability of new nodes and changes in internal policies.
 
 1.  Users willing to become Community users shall apply through the specific process. 
 Such process is activated by clicking on the ''Request Community Account'' button 
-in the [FIWARE Lab home page](https://lab.fiware.org). Through the process Users 
+in the [FIWARE Lab home page](https://cloud.lab.fiware.org). Through the process Users 
 will need to describe the application they are developing and the planned usage 
 of FIWARE Lab resources. Community users will be assigned a default FIWARE Lab 
 node and will have access to it for a 9-month period unless the application process 
@@ -408,7 +408,7 @@ purpose of this Agreement.
 You are responsible for the connection to the FIWARE Lab Services, including the 
 Internet connection.
 
-You may not use a false e-mail address, impersonate any person or entity, or 
+You may not use a false email address, impersonate any person or entity, or 
 otherwise mislead as to the origin of any Third Party Data or Third Party Content.
 
 You represent and warrant that You own or otherwise control all of the rights 
@@ -423,11 +423,11 @@ screen Third Party Content, (b) You use any Third Party Content at your sole
 risk, and (c) Your use of Third Party Content may be subject to separate license 
 terms as determined by the person or legal entity providing such Content.
 
-When You visit the FIWARE Lab Site or send e-mails to Us, You are communicating 
+When You visit the FIWARE Lab Site or send emails to Us, You are communicating 
 with Us electronically. You consent to receive communications from Us 
 electronically. You consent that all the communications you send us via electronic 
 means, may be published on any media we deem suitable. We will communicate with 
-You by e-mail or by posting notices on the FIWARE Lab Site. You agree that all 
+You by email or by posting notices on the FIWARE Lab Site. You agree that all 
 agreements, notices, disclosures and other communications that We provide to 
 You electronically satisfy any legal requirement that such communications be 
 in writing.
@@ -501,9 +501,9 @@ available in every country, either temporarily or permanently.
 ### Term
 
 This Agreement shall enter into force from the Effective Date in accordance with 
-section [Definitions](#Definitions) above, and will remain in effect until 
-terminated by You or Us in accordance with section [Termination](#Termination), 
-or as varied by any new Terms and Conditions which may be posted on the website as 
+section [Definitions](#definitions) above, and will remain in effect until 
+terminated by You or Us in accordance with section [Termination](#termination), 
+or as varied by any new Terms and Conditions which may be posted on the site as 
 permitted at section [Amendment of this Agreement](#amendment-of-this-agreement).
 
 ### Termination
@@ -575,7 +575,7 @@ If We suspend Your right to access or use any portion or all of the FIWARE Lab
 Services, We reserve the right to erase or not any of Your Content as a result 
 of Your suspension, Our right to suspend Your or any Your End User's right to 
 access or use the Service Offerings is in addition to our right to terminate 
-this Agreement pursuant to section [Termination](#Termination).
+this Agreement pursuant to section [Termination](#termination).
 
 The Account Manager Provider will make reasonable efforts in order to notify 
 You about the suspension of Your account.
@@ -696,7 +696,7 @@ YOU EXPRESSLY UNDERSTAND AND AGREE THAT THE USE OF THE FIWARE Lab SERVICES OR TH
 CONTENT OF THE FIWARE Lab SITE IS AT YOUR SOLE RISK. FIWARE Lab SERVICES AND THE 
 REST OF THE CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE 
 MAXIMUM EXTENT PERMITTED BY LAW AND SUBJECT TO PARAGRAPH D AND E OF THE SECTION 
-[LIABILITY](#Liability) OF THIS AGREEMENT, THE EXPRESS TERMS OF THIS AGREEMENT 
+[LIABILITY](#liability) OF THIS AGREEMENT, THE EXPRESS TERMS OF THIS AGREEMENT 
 ARE IN LIEU OF ALL WARRANTIES, CONDITIONS, TERMS, UNDERTAKINGS AND OBLIGATIONS 
 IMPLIED BY STATUTE, COMMON LAW, CUSTOM, TRADE USAGE, COURSE OF DEALING OR OTHERWISE, 
 ALL OF WHICH ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.
@@ -761,7 +761,7 @@ OF SUCH CLAIM, SUIT OR ACTION.
 ## Account Personal Data Protection
 
 Personal Data for these terms and conditions are handled according to Our 
-[Personal Data Protection_Policy](PersonalDataProtectionPolicy.md). 
+[Personal Data Protection Policy](PersonalDataProtectionPolicy.md). 
 Please refer to it for more information.
 
 ## Assignment, Subcontracting and not Reselling

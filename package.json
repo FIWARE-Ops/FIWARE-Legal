@@ -41,9 +41,9 @@
   "scripts": {
     "precommit": "lint-staged",
     "prettier": "prettier --parser flow --single-quote --trailing-comma none --write **/**/*.js  **/*.js *.js",
-    "prettier:text": "prettier  --parser markdown '*.md' --tab-width 4 --print-width 120 --write --prose-wrap always --trailing-comma none",
-    "lint:md": "remark  -f '*.md'",
-    "lint:text": "textlint '*.md'"
+    "prettier:text": "prettier  --parser markdown '*.md' './docs/*.md' --tab-width 4 --print-width 120 --write --prose-wrap always --trailing-comma none",
+    "lint:md": "remark  -f '*.md' './docs/*.md'",
+    "lint:text": "textlint '*.md' './docs/*.md'"
   },
   "husky": {
     "hooks": {

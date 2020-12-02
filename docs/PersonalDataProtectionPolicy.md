@@ -1,7 +1,7 @@
 # Personal Data Protection Policy
 
 This is the main privacy policy for fiware.org and for certain services provided 
-through these and other FIWARE websites and applications (“Our Sites”) by FIWARE 
+through these and other FIWARE sites and applications (“Our Sites”) by FIWARE 
 Foundation e.V. (“FIWARE”).
 
 At FIWARE we collect different types of information about our users for three main 
@@ -45,7 +45,7 @@ collected, how they are defined at the beginning of this document, and we will m
 sure we delete it securely.
 
 1.  Our Site is accessible via the internet. This means that people around the World 
-who access our website can see anything you post on the website or twitter comments 
+who access our site can see anything you post on the site or twitter comments 
 with the FIWARE hash.
 
 1.  If we or our service providers transfer any information out of the European Union 
@@ -54,7 +54,7 @@ German law) being in place.
 
 The information that it is collected from you consist on:
 *   when you register or become a member of our portals 
-*   when you use the website 
+*   when you use the site 
 *   through cookies.
 
 Certain services that we provide may involve us collecting extra information 
@@ -125,13 +125,13 @@ If you would like to opt-out of Google Analytics monitoring your behaviour on ou
 sites please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 ## Social Media Plug-Ins
-Our Sites might use plug-ins from facebook, twitter and linkedIn. When you visit 
-a page of our website, your browser does not automatically establish a direct 
+Our Sites might use plug-ins from facebook, twitter and LinkedIn. When you visit 
+a page of our site, your browser does not automatically establish a direct 
 connection to the social media servers. A connection only takes place if you click 
 the link to the social media servers. In this case, the social media provider will 
 be informed that you have visited our site with your IP address.
 
-We would like to point out that as a provider of our website, we do not receive 
+We would like to point out that as a provider of our site, we do not receive 
 from the social media providers any knowledge of the content of the transmitted 
 data nor its use.
 

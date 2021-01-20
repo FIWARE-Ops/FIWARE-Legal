@@ -137,7 +137,7 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 | _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
 | _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
 | _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| \<name of the mailing list> + \<user> | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
+| &lt;name of the mailing list&gt; + &lt;user&gt; | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
 
 
 ## Cookies Intrusiveness Level.  

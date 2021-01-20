@@ -17,6 +17,7 @@ advertising cookies.
 
 The use of cookies offers numerous advantages in the provision of
 information technology services, because, among others:
+
 1.  They make it easier for the user to browse the Site and access 
 the different services on offer.
 1.  They mean that users do not have to set up the general, predefined 
@@ -136,12 +137,13 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 | _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
 | _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
 | _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| <name of the mailing list> + <user> | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
+| \<name of the mailing list> + \<user> | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
 
 
 ## Cookies Intrusiveness Level.  
 
 The cookies detailed above are graded on an "intrusiveness level" whose categorization is the following:  
+
 *   **Low level**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
 *   **Medium level**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their sites (e.g. Social Plugins from Facebook or Twitter).
 *   **High level**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through sites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.

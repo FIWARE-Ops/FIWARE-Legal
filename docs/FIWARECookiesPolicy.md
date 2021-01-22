@@ -94,14 +94,68 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 
 
+
+## i4Trust Site (i4Trust.) Cookies.   
+
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| moove_gdrp_popup | i4trust.org | 1 year | Used by the GDPR plugin and it indicates that the site uses cookies. | Medium |
+| Mp_*_mixpanel | i4trust.org | 3 months | Used to identify individual users. This tool is used to measure site performance and usage patterns. | Medium |
+| PHPSESSID | i4trust.org | Session | PHP session cookie associated with embedded content from this domain. | Medium |
+| _ga | i4trust.org | 2 years | Google Analytics to count and track page views. | Medium |
+| _gid | i4trust.org | 2 years | Used to identify individual users. This tool is used to measure site performance and usage patterns. | Medium |
+
+
+
+## Smartdatamodels Site (smartdatamodels.org) Cookies.   
+
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| PHPSESSID | smartdatamodels.org | Session | PHP session cookie associated with embedded content from this domain. | Medium |
+| pll_language | smartdatamodels.org | 2 years | Google Analytics to count and track page views. | Medium |
+| _gid | .google.com | 2 years |Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
+| SIDCC | .google.com | 2 years | To provide services and extract anonymous information about browsing. | High |
+| __Secure-3PAPISID | .google.com | 2 years | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests. | High |
+| SAPISID | .google.com | 2 years | For the count, by Google, of the number of users that use the maps. | High |
+| SSID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | High |
+| HSID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | High |
+| __Secure-3PSID | .google.com | 2 years | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests. | High |
+| SID | .google.com | 2 years | They are used by Google to store user preferences and information while viewing pages with Google maps on them. | High |
+| APISID | .google.com | 2 years | They are used by Google to store user preferences and information while viewing pages with Google maps on them. | High |
+| DV | .google.com | 1 day | It is used by Google to provide services and extract anonymous information about browsing. | Medium |
+| NID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | Medium | 
+| 1P_JAR | .google.com | 15 days | Cookie that transfers data to Google to make advertising more attractive. | Medium |
+| SEARCH_SAMESITE | .google.com | Session | This functionality can be used to prevent the browser from automatically sending a certain cookie when the request originates from an external. | Medium |
+| CONSENT | .google.com | Session | Technical cookie to control the acceptance of cookies. | Medium |
+| OGPC | .google.com | 1 month | Cookie used by Google to provide services and extract anonymous information about browsing. | Medium |
+| ANID | .google.com | 1 year | For the count, by Google, of the number of users that use the maps. | Medium |
+| OGP | .google.com | 1 month | Cookie used by Google to provide services and extract anonymous information about browsing. | Medium |
+
+
+
+
+
+## Guard Site (guard-project.eu) Cookies.   
+
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| PHPSESSID | guard-proyect.eu | Session | PHP session cookie associated with embedded content from this domain. | Medium |
+| _ga | guard-proyect.eu | 2 years | Google Analytics to count and track page views. | Medium | 
+| _gid | guard-proyect.eu | 2 years | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
+| et_bloom_optin_optin_3_af0c771da6_imp | guard-proyect.eu | 1 year | Used to check if newsletter sign-up form has been displayed. | Medium | 
+
+
+
+
+
 ## FIWARE Lab portals (*.lab.fiware.org) Cookies.   
 
 | Cookie | Domain | Expiration | Purpose | Intrusiveness level |
 |--------|--------|------------|---------|:------------------: |
 | _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across sites. | Medium |
-| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _ga | .fiware.org | 2 years | Google Analytics to count and track page views. | Medium |
 | _gat | .fiware.org | 1 hour | Google Analytics. | Medium |
-| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
+| _gid | .fiware.org | 1 day | Google Analytics to count and track page views. | Medium |
 | _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
 | _hjTLDTest | .fiware.org | Session | Hotjat to get tempoeal information about cookies path. | Medium |
 | AJS.conglomerate.cookie | jira.fiware.org | 1 day | Tracks which general tabs were last used (e.g. in Confluence's plugin manager) or expansion elements were last opened or closed. | Medium |

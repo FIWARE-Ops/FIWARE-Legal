@@ -95,7 +95,7 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 
 
-## i4Trust Site (i4Trust.) Cookies.   
+## i4Trust Site (i4Trust.org) Cookies.   
 
 | Cookie | Domain | Expiration | Purpose | Intrusiveness level |
 |--------|--------|------------|---------|:------------------: |
@@ -143,6 +143,20 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 | _ga | guard-proyect.eu | 2 years | Google Analytics to count and track page views. | Medium | 
 | _gid | guard-proyect.eu | 2 years | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
 | et_bloom_optin_optin_3_af0c771da6_imp | guard-proyect.eu | 1 year | Used to check if newsletter sign-up form has been displayed. | Medium | 
+
+
+
+
+
+## CEF-Interstat Site (cef-interstat.eu) Cookies.
+
+| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
+|--------|--------|------------|---------|:------------------: |
+| PHPSESSID | cef-interstar.eu | Session | PHP session cookie associated with embedded content from this domain. | Medium |
+| moove_gdrp_popup | cef-interstar.eu | 1 year | Used by the GDPR plugin that indicates that the site uses cookies. | Medium |
+| Mp_*_mixpanel | cef-interstar.eu | 3 months | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
+| _ga | cef-interstar.eu | 2 years | Google Analytics to count and track pageviews. | Medium |
+| _gid | cef-interstar.eu | 2 years | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
 
 
 

@@ -19,7 +19,7 @@ FIWARE Open Innovation Lab (hereinafter, "FIWARE Lab") Services.
 
 1.  **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. 
 together with the parties providing resources for the various FIWARE Lab nodes 
-and listed in the [FIWARE Lab infographic](http://infographic.lab.fiware.org/) 
+and listed in the [FIWARE Lab infographic](http://infographic.lab.fiware.org) 
 page.           <!-- Infographics is not more used... -->
 
 1.  **FIWARE Generic Enabler (GE)** products or **FIWARE GE** are the products 

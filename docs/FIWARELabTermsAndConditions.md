@@ -18,9 +18,7 @@ FIWARE Open Innovation Lab (hereinafter, "FIWARE Lab") Services.
 1.  **You / Your** refers, as applicable, to you or the entity you represent.
 
 1.  **We / Us / Our** refers where applicable to the FIWARE Foundation e.V. 
-together with the parties providing resources for the various FIWARE Lab nodes 
-and listed in the [FIWARE Lab infographic](http://infographic.lab.fiware.org) 
-page.           <!-- Infographics is not more used... -->
+together with the parties providing resources for the various FIWARE Lab nodes.
 
 1.  **FIWARE Generic Enabler (GE)** products or **FIWARE GE** are the products 
 described in the [FIWARE Catalogue](https://github.com/FIWARE/catalogue).
@@ -885,17 +883,3 @@ their respective successors and assigns.
 
 All communications and notices to be made or given pursuant to This Agreement 
 shall be in the English language.
-
-### Previous version
-
-You can see the historical (and now deprecated) versions of this document in the 
-following pages:
-
-*   **FI-NEXT:_FIWARE_LAB_Terms_and_Conditions|FIWARE LAB Terms and Conditions**, 
-changes due to the EU General Data Protection Regulation, reference to the Privacy 
-Policy document in section Account Personal Data Protection.
-*   **FI-Core:_FIWARE_LAB_Terms_and_Conditions| FIWARE LAB Terms and Conditions**, 
-version held during FI-Core project (finished now).
-*   **FI-LAB_Terms_and_Conditions|FI-LAB Terms and Conditions**, version held during 
-FI-WARE project.
-

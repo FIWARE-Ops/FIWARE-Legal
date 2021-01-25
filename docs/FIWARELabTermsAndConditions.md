@@ -2,8 +2,6 @@
 
 **Last Updated: November 30, 2020**
 
-See what's Changed
-
 ## Introduction
 ### Object
 

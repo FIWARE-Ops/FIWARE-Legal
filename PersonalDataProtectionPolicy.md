@@ -70,7 +70,7 @@ We would like to point out that as a provider of our website, we do not receive 
 For further information go to the social media providers privacy statements.
 
 ## Legal information and how to contact us
-FIWARE advises users of Our Sites (“the Users”) that FIWARE complies with the current European legislation related to Personal Data Protection, Users' Privacy, and the Secrecy And Security of Personal Data, as established in the EU General Data Protection Regulation. The data controller is the organisation responsible for protecting information and, in our case, is FIWARE Foundation, e.V., Franklinstrasse 13A, 10587 Berlin. The Contact of the Data Protection Officer is [mailto:dataprotection@fiware.org dataprotection@fiware.org].
+FIWARE advises users of Our Sites (“the Users”) that FIWARE complies with the current European legislation related to Personal Data Protection, Users' Privacy, and the Secrecy And Security of Personal Data, as established in the EU General Data Protection Regulation. The data controller is the organisation responsible for protecting information and, in our case, is FIWARE Foundation, e.V., Helmholtzstraße 2–9, 10587 Berlin. The Contact of the Data Protection Officer is [mailto:dataprotection@fiware.org dataprotection@fiware.org].
 
 We process your personal data in accordance with the EU's General Data Protection Regulation (GDPR) as follows:
 

@@ -143,7 +143,7 @@ current European legislation related to Personal Data Protection, Users' Privacy
 and the Secrecy And Security of Personal Data, as established in the EU General 
 Data Protection Regulation. The data controller is the organisation responsible 
 for protecting information and, in our case, is FIWARE Foundation, e.V., 
-Franklinstrasse 13A, 10587 Berlin. The Contact of the Data Protection Officer is 
+Helmholtzstraße 2–9, 10587 Berlin. The Contact of the Data Protection Officer is 
 [dataprotection@fiware.org](mailto:dataprotection@fiware.org).
 
 We process your personal data in accordance with the EU's General Data Protection 

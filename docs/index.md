@@ -9,4 +9,3 @@ All legal documents that are needed in the various FIWARE Sites. They are
 
 *   [FIWARE Personal Data Protection Policy](PersonalDataProtectionPolicy.md) 
 *   [FIWARE Cookies Policy](FIWARECookiesPolicy.md)
-*   [FIWARE Lab Terms and Conditions](FIWARELabTermsAndConditions.md)

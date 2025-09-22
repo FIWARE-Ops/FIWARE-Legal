@@ -34,7 +34,7 @@ procedures to be executed for the most popular browsers.
 (in the Tools Menu): Settings \> Show advanced options \> Privacy (Content Settings) \>
 Cookies. More information: <https://support.google.com/chrome/answer/95647?hl=en>.
 
-*   **Microsoft Internet Explorer**
+*   **Microsoft Edge**
 (in the Tools Menu): Internet \> Privacy \> Advanced. More information: 
 <https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>.  
 
@@ -61,151 +61,97 @@ please use this link (<https://tools.google.com/dlpage/gaoptout>).
 
 ## FIWARE Site (fiware.org) Cookies 
 
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| PHPSESSID | www.fiware.org | Session | PHP session cookie associated with embedded content from this domain. | Low |
-| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across sites. | Medium |
-| _ga | .spotlightr.com | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _ga | .hotjar.com | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gaexp | .spotlightr.com | 3 months | Google Analytics. | Medium |
-| _gat | .fiware.org | 1 hour | Google Analytics. | Medium |
-| _gat_gtag_UA_*_1 | .fiware.org |  1 hour | Google Tag Manager to store and track conversions. | Medium |
-| _gid | .spotlightr.com | 1 day | Google Analytics to count and track pageviews. | Medium |
-| _gid | .hotjar.com | 1 day | Google Analytics to count and track pageviews. | Medium |
-| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
-| _hjFirstSeen | | 30 minutes | Hotjar cookie unclassified | Medium |
-| _hjTLDTest | .hotjar.com | Session | Hotjat to get temporal information about cookies path. | Low |
-| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Low |
-| _hjid | .hotjar.com | 1 year | Hotjar to store a unique user ID. | Medium |
-| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| ajs_anonymous_id | .hotjar.com | 1 year | Atlasian Jira Servicedesk to store last visit. | Medium |
-| datr | .facebook.com | 2 years | Facebook to provide fraud prevention. | Medium |
-| etBloomCookie_optin_* | www.fiware.org | 1 day | This cookies helps us manage the sign-up to our mailing lists. | Medium |
-| et_bloom_optin_optin_4_*_imp | www.fiware.org | 1 year | Captures the Name and Email ID for Newsletters. | Medium |
-| fr | .facebook.com | 3 months | Facebook to Enable ad delivery or retargeting. | Medium |
-| ginger-cookie | www.fiware.org | 1 year | | Medium |
-| intercom-id-* | .spotlightr.com | 9 months | Intercom Messenger. | Medium |
-| intercom-session-* | .spotlightr.com | 7 days | Intercom Messenger. | Medium |
-| sb | .facebook.com | 2 years | Facebook to store browser details. | Medium |
-| viewerId | www.fiware.org | 3 months | The viewerID cookie allows the site to retain your product viewing history across sessions. | Medium |
-| vooplayerVideo* | www.fiware.org | Session | It serves to determine which part of the video the user has stayed. | Medium |
-
-
+| Cookie                       | Domain          | Expiration | Purpose                                                                                     | Intrusiveness level |
+|------------------------------|-----------------|------------|---------------------------------------------------------------------------------------------|:-------------------:|
+| PHPSESSID                    | www.fiware.org  | Session    | PHP session cookie associated with embedded content from this domain.                       |         Low         |
+| _fbp                         | .fiware.org     | 3 months   | Facebook cookie to store and track visits across sites.                                     |       Medium        |
+| _ga                          | .spotlightr.com | 2 years    | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _ga                          | .hotjar.com     | 2 years    | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _ga                          | .fiware.org     | 2 years    | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _gaexp                       | .spotlightr.com | 3 months   | Google Analytics.                                                                           |       Medium        |
+| _gat                         | .fiware.org     | 1 hour     | Google Analytics.                                                                           |       Medium        |
+| _gat_gtag_UA_*_1             | .fiware.org     | 1 hour     | Google Tag Manager to store and track conversions.                                          |       Medium        |
+| _gid                         | .spotlightr.com | 1 day      | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _gid                         | .hotjar.com     | 1 day      | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _gid                         | .fiware.org     | 1 day      | Google Analytics to count and track pageviews.                                              |       Medium        |
+| _hjFirstSeen                 |                 | 30 minutes | Hotjar cookie unclassified                                                                  |       Medium        |
+| _hjTLDTest                   | .hotjar.com     | Session    | Hotjat to get temporal information about cookies path.                                      |         Low         |
+| _hjTLDTest                   | .fiware.org     | Session    | Hotjat to get temporal information about cookies path.                                      |         Low         |
+| _hjid                        | .hotjar.com     | 1 year     | Hotjar to store a unique user ID.                                                           |       Medium        |
+| _hjid                        | .fiware.org     | 1 year     | Hotjar to store a unique user ID.                                                           |       Medium        |
+| ajs_anonymous_id             | .hotjar.com     | 1 year     | Atlasian Jira Servicedesk to store last visit.                                              |       Medium        |
+| datr                         | .facebook.com   | 2 years    | Facebook to provide fraud prevention.                                                       |       Medium        |
+| etBloomCookie_optin_*        | www.fiware.org  | 1 day      | This cookies helps us manage the sign-up to our mailing lists.                              |       Medium        |
+| et_bloom_optin_optin_4_*_imp | www.fiware.org  | 1 year     | Captures the Name and Email ID for Newsletters.                                             |       Medium        |
+| fr                           | .facebook.com   | 3 months   | Facebook to Enable ad delivery or retargeting.                                              |       Medium        |
+| ginger-cookie                | www.fiware.org  | 1 year     |                                                                                             |       Medium        |
+| intercom-id-*                | .spotlightr.com | 9 months   | Intercom Messenger.                                                                         |       Medium        |
+| intercom-session-*           | .spotlightr.com | 7 days     | Intercom Messenger.                                                                         |       Medium        |
+| sb                           | .facebook.com   | 2 years    | Facebook to store browser details.                                                          |       Medium        |
+| viewerId                     | www.fiware.org  | 3 months   | The viewerID cookie allows the site to retain your product viewing history across sessions. |       Medium        |
+| vooplayerVideo*              | www.fiware.org  | Session    | It serves to determine which part of the video the user has stayed.                         |       Medium        |
 
 
 
 ## i4Trust Site (i4Trust.org) Cookies.   
 
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| moove_gdrp_popup | i4trust.org | 1 year | Used by the GDPR plugin and it indicates that the site uses cookies. | Medium |
-| Mp_*_mixpanel | i4trust.org | 3 months | Used to identify individual users. This tool is used to measure site performance and usage patterns. | Medium |
-| PHPSESSID | i4trust.org | Session | PHP session cookie associated with embedded content from this domain. | Medium |
-| _ga | i4trust.org | 2 years | Google Analytics to count and track page views. | Medium |
-| _gid | i4trust.org | 2 years | Used to identify individual users. This tool is used to measure site performance and usage patterns. | Medium |
+| Cookie           | Domain      | Expiration | Purpose                                                                                              | Intrusiveness level |
+|------------------|-------------|------------|------------------------------------------------------------------------------------------------------|:-------------------:|
+| moove_gdrp_popup | i4trust.org | 1 year     | Used by the GDPR plugin and it indicates that the site uses cookies.                                 |       Medium        |
+| Mp_*_mixpanel    | i4trust.org | 3 months   | Used to identify individual users. This tool is used to measure site performance and usage patterns. |       Medium        |
+| PHPSESSID        | i4trust.org | Session    | PHP session cookie associated with embedded content from this domain.                                |       Medium        |
+| _ga              | i4trust.org | 2 years    | Google Analytics to count and track page views.                                                      |       Medium        |
+| _gid             | i4trust.org | 2 years    | Used to identify individual users. This tool is used to measure site performance and usage patterns. |       Medium        |
 
 
 
 ## Smartdatamodels Site (smartdatamodels.org) Cookies.   
 
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| PHPSESSID | smartdatamodels.org | Session | PHP session cookie associated with embedded content from this domain. | Medium |
-| pll_language | smartdatamodels.org | 2 years | Google Analytics to count and track page views. | Medium |
-| _gid | .google.com | 2 years |Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
-| SIDCC | .google.com | 2 years | To provide services and extract anonymous information about browsing. | High |
-| __Secure-3PAPISID | .google.com | 2 years | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests. | High |
-| SAPISID | .google.com | 2 years | For the count, by Google, of the number of users that use the maps. | High |
-| SSID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | High |
-| HSID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | High |
-| __Secure-3PSID | .google.com | 2 years | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests. | High |
-| SID | .google.com | 2 years | They are used by Google to store user preferences and information while viewing pages with Google maps on them. | High |
-| APISID | .google.com | 2 years | They are used by Google to store user preferences and information while viewing pages with Google maps on them. | High |
-| DV | .google.com | 1 day | It is used by Google to provide services and extract anonymous information about browsing. | Medium |
-| NID | .google.com | 6 months | For the count, by Google, of the number of users that use the maps. | Medium | 
-| 1P_JAR | .google.com | 15 days | Cookie that transfers data to Google to make advertising more attractive. | Medium |
-| SEARCH_SAMESITE | .google.com | Session | This functionality can be used to prevent the browser from automatically sending a certain cookie when the request originates from an external. | Medium |
-| CONSENT | .google.com | Session | Technical cookie to control the acceptance of cookies. | Medium |
-| OGPC | .google.com | 1 month | Cookie used by Google to provide services and extract anonymous information about browsing. | Medium |
-| ANID | .google.com | 1 year | For the count, by Google, of the number of users that use the maps. | Medium |
-| OGP | .google.com | 1 month | Cookie used by Google to provide services and extract anonymous information about browsing. | Medium |
-
-
+| Cookie            | Domain              | Expiration | Purpose                                                                                                                                         | Intrusiveness level |
+|-------------------|---------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|
+| PHPSESSID         | smartdatamodels.org | Session    | PHP session cookie associated with embedded content from this domain.                                                                           |       Medium        |
+| pll_language      | smartdatamodels.org | 2 years    | Google Analytics to count and track page views.                                                                                                 |       Medium        |
+| _gid              | .google.com         | 2 years    | Used to identify individual users.This tool is used to measure site performance and usage patterns.                                             |       Medium        |
+| SIDCC             | .google.com         | 2 years    | To provide services and extract anonymous information about browsing.                                                                           |        High         |
+| __Secure-3PAPISID | .google.com         | 2 years    | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests.                                          |        High         |
+| SAPISID           | .google.com         | 2 years    | For the count, by Google, of the number of users that use the maps.                                                                             |        High         |
+| SSID              | .google.com         | 6 months   | For the count, by Google, of the number of users that use the maps.                                                                             |        High         |
+| HSID              | .google.com         | 6 months   | For the count, by Google, of the number of users that use the maps.                                                                             |        High         |
+| __Secure-3PSID    | .google.com         | 2 years    | Advertising. These cookies are used to deliver advertisements more relevant to you and your interests.                                          |        High         |
+| SID               | .google.com         | 2 years    | They are used by Google to store user preferences and information while viewing pages with Google maps on them.                                 |        High         |
+| APISID            | .google.com         | 2 years    | They are used by Google to store user preferences and information while viewing pages with Google maps on them.                                 |        High         |
+| DV                | .google.com         | 1 day      | It is used by Google to provide services and extract anonymous information about browsing.                                                      |       Medium        |
+| NID               | .google.com         | 6 months   | For the count, by Google, of the number of users that use the maps.                                                                             |       Medium        | 
+| 1P_JAR            | .google.com         | 15 days    | Cookie that transfers data to Google to make advertising more attractive.                                                                       |       Medium        |
+| SEARCH_SAMESITE   | .google.com         | Session    | This functionality can be used to prevent the browser from automatically sending a certain cookie when the request originates from an external. |       Medium        |
+| CONSENT           | .google.com         | Session    | Technical cookie to control the acceptance of cookies.                                                                                          |       Medium        |
+| OGPC              | .google.com         | 1 month    | Cookie used by Google to provide services and extract anonymous information about browsing.                                                     |       Medium        |
+| ANID              | .google.com         | 1 year     | For the count, by Google, of the number of users that use the maps.                                                                             |       Medium        |
+| OGP               | .google.com         | 1 month    | Cookie used by Google to provide services and extract anonymous information about browsing.                                                     |       Medium        |
 
 
 
 ## Guard Site (guard-project.eu) Cookies.   
 
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| PHPSESSID | guard-proyect.eu | Session | PHP session cookie associated with embedded content from this domain. | Medium |
-| _ga | guard-proyect.eu | 2 years | Google Analytics to count and track page views. | Medium | 
-| _gid | guard-proyect.eu | 2 years | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
-| et_bloom_optin_optin_3_af0c771da6_imp | guard-proyect.eu | 1 year | Used to check if newsletter sign-up form has been displayed. | Medium | 
-
-
+| Cookie                                | Domain           | Expiration | Purpose                                                                                             | Intrusiveness level |
+|---------------------------------------|------------------|------------|-----------------------------------------------------------------------------------------------------|:-------------------:|
+| PHPSESSID                             | guard-proyect.eu | Session    | PHP session cookie associated with embedded content from this domain.                               |       Medium        |
+| _ga                                   | guard-proyect.eu | 2 years    | Google Analytics to count and track page views.                                                     |       Medium        | 
+| _gid                                  | guard-proyect.eu | 2 years    | Used to identify individual users.This tool is used to measure site performance and usage patterns. |       Medium        |
+| et_bloom_optin_optin_3_af0c771da6_imp | guard-proyect.eu | 1 year     | Used to check if newsletter sign-up form has been displayed.                                        |       Medium        | 
 
 
 
 ## CEF-Interstat Site (cef-interstat.eu) Cookies.
 
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| PHPSESSID | cef-interstar.eu | Session | PHP session cookie associated with embedded content from this domain. | Medium |
-| moove_gdrp_popup | cef-interstar.eu | 1 year | Used by the GDPR plugin that indicates that the site uses cookies. | Medium |
-| Mp_*_mixpanel | cef-interstar.eu | 3 months | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
-| _ga | cef-interstar.eu | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gid | cef-interstar.eu | 2 years | Used to identify individual users.This tool is used to measure site performance and usage patterns. | Medium |
+| Cookie           | Domain           | Expiration | Purpose                                                                                             | Intrusiveness level |
+|------------------|------------------|------------|-----------------------------------------------------------------------------------------------------|:-------------------:|
+| PHPSESSID        | cef-interstar.eu | Session    | PHP session cookie associated with embedded content from this domain.                               |       Medium        |
+| moove_gdrp_popup | cef-interstar.eu | 1 year     | Used by the GDPR plugin that indicates that the site uses cookies.                                  |       Medium        |
+| Mp_*_mixpanel    | cef-interstar.eu | 3 months   | Used to identify individual users.This tool is used to measure site performance and usage patterns. |       Medium        |
+| _ga              | cef-interstar.eu | 2 years    | Google Analytics to count and track pageviews.                                                      |       Medium        |
+| _gid             | cef-interstar.eu | 2 years    | Used to identify individual users.This tool is used to measure site performance and usage patterns. |       Medium        |
 
-
-
-
-
-## FIWARE Lab portals (*.lab.fiware.org) Cookies.   
-
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across sites. | Medium |
-| _ga | .fiware.org | 2 years | Google Analytics to count and track page views. | Medium |
-| _gat | .fiware.org | 1 hour | Google Analytics. | Medium |
-| _gid | .fiware.org | 1 day | Google Analytics to count and track page views. | Medium |
-| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| _hjTLDTest | .fiware.org | Session | Hotjat to get tempoeal information about cookies path. | Medium |
-| AJS.conglomerate.cookie | jira.fiware.org | 1 day | Tracks which general tabs were last used (e.g. in Confluence's plugin manager) or expansion elements were last opened or closed. | Medium |
-| atlassian.xsrf.token | jira.fiware.org | Session | Helps prevent XSRF attacks. Ensures that during a user's session, browser requests sent to a product are originated from that product instance. | Medium |
-| csrftoken | account.lab.fiware.org | 1 year | Django CSRF protection token. | Medium |
-| JSESSIONID | jira.fiware.org | Session | Java J2EE or WebLogic Server session cookie. | Medium |
-| login_region | cloud.lab.fiware.org | 1 year | URL of the Identity Management of this Cloud Lab Region. | Low |
-
-
-## FIWARE Q&A (ask.fiware.org) Cookies.   
-
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| __utma | .ask.fiware.org | 2 years | Google Analytics to calculate days and time to pruchase. | Medium |
-| __utmb | .ask.fiware.org | 30 minutes | Google Analytics to store time of visit. | Medium |
-| __utmc | .ask.fiware.org | Session | Google Analytics to store time of visit. | Medium |
-| __utmt | .ask.fiware.org | 10 minutes | Google Analytics to store number of service requests. | Medium |
-| __utmz | .ask.fiware.org | 6 months | Google Analytics to store used keyword and search engine. | Medium |
-| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across sites. | Medium |
-| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
-| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
-| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| sessionid | ask.fiware.org | 15 days | Information about the ID. of the session. | Low |
-
-
-## FIWARE Mailing Lists (lists.fiware.org) site Cookies.  
-
-| Cookie | Domain | Expiration | Purpose | Intrusiveness level |
-|--------|--------|------------|---------|:------------------: |
-| _fbp | .fiware.org | 3 months | Facebook cookie to store and track visits across sites. | Medium |
-| _ga | .fiware.org | 2 years | Google Analytics to count and track pageviews. | Medium |
-| _gid | .fiware.org | 1 day | Google Analytics to count and track pageviews. | Medium |
-| _hjTLDTest | .fiware.org | Session | Hotjat to get temporal information about cookies path. | Medium |
-| _hjid | .fiware.org | 1 year | Hotjar to store a unique user ID. | Medium |
-| &lt;name of the mailing list&gt; + &lt;user&gt; | lists.fiware.org | Session | Cookie used as session identifier for Mailman. | Medium |
 
 
 ## Cookies Intrusiveness Level.  
@@ -215,3 +161,12 @@ The cookies detailed above are graded on an "intrusiveness level" whose categori
 *   **Low level**: corresponds to internally-used cookies that are essential for provision of the service requested by the user.
 *   **Medium level**: corresponds to anonymous, internally-used cookies necessary for the maintenance of contents and browsing, as well as cookies managed by third parties in the framework of services expressly requested by the user on their sites (e.g. Social Plugins from Facebook or Twitter).
 *   **High level**: it corresponds to cookies managed by third parties in the framework of services not expressly requested by the user, permitting tracking of these through sites not owned by FIWARE (e.g. graphic advertising management platforms). The specification of this level is accompanied by its owner. The use of level 3 is subject to the user's prior permission by means of express confirmation of acceptance.
+
+
+**History of Changes:**
+
+| Date           | Changes                                                                                                                                    |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Sept 2025      | Remove sections about FIWARE Lab portals, FIWARE Q&A, and FIWARE Mailing lists. Change from Microsoft Internet Explorer to Microsoft Edge. |
+| Jun 2020       | ReadTheDocs generation of the Legal documents.                                                                                             |
+

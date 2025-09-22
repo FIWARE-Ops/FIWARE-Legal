@@ -163,7 +163,7 @@ steps at your request prior to entering into the contract. Examples:
 (Art. 6 (1) point (f) GDPR)**
 
 Where necessary, we process your data for reasons beyond fulfilling the contract, 
-e.g. for the purposes of the legitimate interests pursued by us or by a third 
+e.g., for the purposes of the legitimate interests pursued by us or by a third 
 party. Examples:
 
 *   For the purposes stated in our Bylaws with regard to Membership
@@ -174,7 +174,7 @@ party. Examples:
 **c) Where you have given your consent (Art. 6 (1) point (a) GDPR)**
 
 Where you have given us your consent to process your personal data for specific 
-purposes (e.g. signing up for a newsletter), the processing of this data based 
+purposes (e.g., signing up for a newsletter), the processing of this data based 
 on your consent is legitimate. The consent can be revoked at any time. Please 
 note that such revocation of consent only applies from the time of revocation 
 onwards. Any processing that had taken place before that time is not affected. 
@@ -182,7 +182,7 @@ onwards. Any processing that had taken place before that time is not affected.
 **d) Where we have a legal obligation (Art. 6 (1) point (c) GDPR) or the 
 processing is in the public interest (Art. 6 (1) point (e) (GDPR)**
 
-FIWARE is subject to various legal obligations (e.g. in accordance with the 
+FIWARE is subject to various legal obligations (e.g., in accordance with the 
 German Commercial Code, tax laws, etc.).
 
 If you would like access to or a copy of the personal information we hold about 
@@ -240,8 +240,9 @@ make these changes.
  
 **History of Changes:**
 
-| Date | Changes |
-|------|---------|
-| May 2018 | Changes due to the EU General Data Protection Regulation (GDPR). |
+| Date          | Changes                                                                                                        |
+|---------------|----------------------------------------------------------------------------------------------------------------|
+| Sept 2025     | Update postal address and correct some errors.                                                                 |
+| May 2018      | Changes due to the EU General Data Protection Regulation (GDPR).                                               |
 | December 2017 | Privacy Policy version due to Data Controller change (FI-NEXT: FIWARE_Privacy_Policy - FIWARE Privacy Policy). | 
-| June 2016 | Creation of the FIWARE Privacy Policy. |
+| June 2016     | Creation of the FIWARE Privacy Policy.                                                                         |

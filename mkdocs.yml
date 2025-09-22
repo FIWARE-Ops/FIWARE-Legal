@@ -11,6 +11,5 @@ extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css",
             "https://raw.githubusercontent.com/depa02/FIWARE-Legal/develop/_static/css/custom.css"]
 
 nav:
-  - Legal Documents: "index.md"
   - FIWARE Cookies Policy: "FIWARECookiesPolicy.md"
   - Personal Data Protection Policy: "PersonalDataProtectionPolicy.md"
